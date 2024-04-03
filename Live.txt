@@ -126,7 +126,7 @@ CCTV-15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 
 
-陕西地方台,#genre#
+陕西地方,#genre#
 陕西卫视,http://hy.baojihzjc.com:9001/rtp/239.111.205.35:5140
 陕西体育休闲,http://hy.baojihzjc.com:9001/rtp/239.111.205.36:5140
 陕西新闻资讯,http://hy.baojihzjc.com:9001/rtp/239.111.205.28:5140
@@ -225,7 +225,7 @@ CCTV-16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 延边2台,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
-周星驰经典,#genre#
+星驰经典,#genre#
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
 少林足球,https://hnzy.bfvvs.com/play/5eVn19eE/index.m3u8
