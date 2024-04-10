@@ -208,6 +208,20 @@ CCTV-16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 
 
 
+
+港台频道,#genre#
+
+凤凰卫视,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰卫视http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视http://183.141.197.192:58888/rtp/233.50.200.191:5140
+凤凰卫视http://39.134.18.196:80/wh7f454c46tw2172490011_-1360941031/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8?
+icpid=88888890&RTS=1707328982&from=20&ocs=2_111.20.45.169_80&hms_devid=8368&online=1707328982&vqe=3
+凤凰卫视,http://nas.8211321.com:5555/rtp/239.61.2.184:9092
+凤凰资讯,http://171.108.239.95:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://183.141.197.192:58888/rtp/233.50.200.192:5140
+凤凰资讯,http://nas.8211321.com:5555/rtp/239.61.2.183:9086
+
 海外频道,#genre#
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 俄罗斯,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
