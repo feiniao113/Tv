@@ -1,3 +1,70 @@
+
+
+
+联通电信新加坡,#genre#
+Mediacorp 5,mitv://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
+Mediacorp 8,mitv://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
+Suria,mitv://generationnexxxt.com:19806/9ea5cf9604c545c88d5a634f5450204b
+Vasantham,mitv://generationnexxxt.com:19806/c59b3a242b644ec2ba2d3398ad14189b
+CNA,mitv://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+Mediacorp U,mitv://generationnexxxt.com:19806/1c7cdb0005764374ab173154f8418848
+Euronews,mitv://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
+Fight Sports,mitv://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
+Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
+Mediacorp U(B),mitv://generationnexxxt.com:19806/bcf807b5e6e549b4aa970c8f1c160a5b
+Mediacorp 8(B),mitv://generationnexxxt.com:19806/009ed3c76b6e4a0cb514213b944e3b1b
+联通电信马来西亚,#genre#
+beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
+TV1,mitv://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
+TV2,mitv://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
+TV3,mitv://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6
+八度空间,mitv://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
+TV9,mitv://generationnexxxt.com:19806/cd4d90b0f1c84d33ae6ab4ebf09ce61a
+Astro Oasis,mitv://generationnexxxt.com:19806/ba94a812ece14f4484d550852d736644
+Al-Hijrah,mitv://generationnexxxt.com:19806/2bbbb59b7e4c44e1ac91c3a4e9fa222a
+SUN TV,mitv://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
+爱奇艺,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
+Astro小太阳,mitv://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
+Astro AEC(备),mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
+天映频道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
+翡翠台(华丽台),mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
+Astro AOD  311,mitv://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
+天映经典,mitv://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
+Astro欢喜台,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
+KBS World,mitv://generationnexxxt.com:19806/61432c16625e41d3b52570bb136f5054
+CGTN,mitv://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
+Astro Ceria,mitv://generationnexxxt.com:19806/65a60c7700089e76e0e3d6806c8b1e66
+KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
+Astro Arena,mitv://generationnexxxt.com:19806/65b216e7000a7ed40fec9c7d4f4b3c78
+Astro SuperSport,mitv://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,mitv://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
+Astro SuperSport 3,mitv://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,mitv://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
+beIN Sports 3,mitv://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
+WWE,mitv://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
+Sky News,mitv://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
+八度空间(备),mitv://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f
+SPOTV,mitv://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
+Astro AEC,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
+Awesome TV,mitv://generationnexxxt.com:19806/3653aa8c401947d4882212e59c54bfba
+ABC Australia,mitv://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
+Eurosport,mitv://generationnexxxt.com:19806/65159769000b9a153e2ca23c14c042d2
+Star Vijay,mitv://generationnexxxt.com:19806/9ae9ad5dd9884ef5b30d006572db2572
+Zee Tamil,mitv://generationnexxxt.com:19806/65a60dec0007945de0e9874a4d685350
+TVBS亚洲,mitv://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
+beIN Sports 2,mitv://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
+Berita RTM,mitv://generationnexxxt.com:19806/da7e362a8d2e40b3bbe02f430a39fc0e
+Golf Channel,mitv://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
+TV Okey,mitv://generationnexxxt.com:19806/c393e305d0034cb383ed076f9f711f1a
+Boomerang(B),mitv://generationnexxxt.com:19806/45f849d284af44fb80815dc8faa555d0
+Golf Channel(B),mitv://generationnexxxt.com:19806/f525ac536b9740f1be9aa0e15eebdd74
+beIN Sports 2(B),mitv://generationnexxxt.com:19806/54acc624548a4ac1be80ee2ae0ad2f03
+BBC World News(B),mitv://generationnexxxt.com:19806/323c575f4f694f739cd9f7a945075cef
+TV9(B),mitv://generationnexxxt.com:19806/f3302a1f09b24a71ac71ba6c01fa993e
+TV3(B),mitv://generationnexxxt.com:19806/af9c201f3aea41e99078e10a6240fcd4
+tvN Movies (B),mitv://generationnexxxt.com:19806/562aa415c1594f8690597144cf976250
+
+
 全网电影轮播,#genre#
 喜剧电影,http://159.75.85.63:35455/douyu/9292492
 喜剧电影,http://43.138.170.29:35455/douyu/9292492
@@ -4592,56 +4659,6 @@ Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
 SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
 JTBC GOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
 
-联通电信马来西亚,#genre#
-beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-TV1,mitv://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
-TV2,mitv://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
-TV3,mitv://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6
-八度空间,mitv://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
-TV9,mitv://generationnexxxt.com:19806/cd4d90b0f1c84d33ae6ab4ebf09ce61a
-Astro Oasis,mitv://generationnexxxt.com:19806/ba94a812ece14f4484d550852d736644
-Al-Hijrah,mitv://generationnexxxt.com:19806/2bbbb59b7e4c44e1ac91c3a4e9fa222a
-SUN TV,mitv://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
-爱奇艺,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
-Astro小太阳,mitv://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
-Astro AEC(备),mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-天映频道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
-翡翠台(华丽台),mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
-Astro AOD  311,mitv://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
-天映经典,mitv://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
-Astro欢喜台,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
-KBS World,mitv://generationnexxxt.com:19806/61432c16625e41d3b52570bb136f5054
-CGTN,mitv://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
-Astro Ceria,mitv://generationnexxxt.com:19806/65a60c7700089e76e0e3d6806c8b1e66
-KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
-Astro Arena,mitv://generationnexxxt.com:19806/65b216e7000a7ed40fec9c7d4f4b3c78
-Astro SuperSport,mitv://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro SuperSport 2,mitv://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-Astro SuperSport 3,mitv://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-Astro SuperSport 4,mitv://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-beIN Sports 3,mitv://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
-WWE,mitv://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
-Sky News,mitv://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
-八度空间(备),mitv://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f
-SPOTV,mitv://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
-Astro AEC,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
-Awesome TV,mitv://generationnexxxt.com:19806/3653aa8c401947d4882212e59c54bfba
-ABC Australia,mitv://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
-Eurosport,mitv://generationnexxxt.com:19806/65159769000b9a153e2ca23c14c042d2
-Star Vijay,mitv://generationnexxxt.com:19806/9ae9ad5dd9884ef5b30d006572db2572
-Zee Tamil,mitv://generationnexxxt.com:19806/65a60dec0007945de0e9874a4d685350
-TVBS亚洲,mitv://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
-beIN Sports 2,mitv://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
-Berita RTM,mitv://generationnexxxt.com:19806/da7e362a8d2e40b3bbe02f430a39fc0e
-Golf Channel,mitv://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
-TV Okey,mitv://generationnexxxt.com:19806/c393e305d0034cb383ed076f9f711f1a
-Boomerang(B),mitv://generationnexxxt.com:19806/45f849d284af44fb80815dc8faa555d0
-Golf Channel(B),mitv://generationnexxxt.com:19806/f525ac536b9740f1be9aa0e15eebdd74
-beIN Sports 2(B),mitv://generationnexxxt.com:19806/54acc624548a4ac1be80ee2ae0ad2f03
-BBC World News(B),mitv://generationnexxxt.com:19806/323c575f4f694f739cd9f7a945075cef
-TV9(B),mitv://generationnexxxt.com:19806/f3302a1f09b24a71ac71ba6c01fa993e
-TV3(B),mitv://generationnexxxt.com:19806/af9c201f3aea41e99078e10a6240fcd4
-tvN Movies (B),mitv://generationnexxxt.com:19806/562aa415c1594f8690597144cf976250
 
 联通电信英国频道,#genre#
 BBC World,http://45.228.232.219:16000/play/a0m9/index.m3u8
@@ -4724,18 +4741,6 @@ Series TV,http://hls.goodgame.ru/hls/186021.m3u8
 Cinema Classic TV,http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 KION Хит ,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/20211/index.m3u8
 
-联通电信新加坡,#genre#
-Mediacorp 5,mitv://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
-Mediacorp 8,mitv://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
-Suria,mitv://generationnexxxt.com:19806/9ea5cf9604c545c88d5a634f5450204b
-Vasantham,mitv://generationnexxxt.com:19806/c59b3a242b644ec2ba2d3398ad14189b
-CNA,mitv://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
-Mediacorp U,mitv://generationnexxxt.com:19806/1c7cdb0005764374ab173154f8418848
-Euronews,mitv://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
-Fight Sports,mitv://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
-Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-Mediacorp U(B),mitv://generationnexxxt.com:19806/bcf807b5e6e549b4aa970c8f1c160a5b
-Mediacorp 8(B),mitv://generationnexxxt.com:19806/009ed3c76b6e4a0cb514213b944e3b1b
 
 联通电信泰国,#genre#
 Channel 5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
@@ -4884,192 +4889,6 @@ The Weather Network,mitv://generationnexxxt.com:19806/65792289000be5843171ed9050
 The Weather Channel,mitv://generationnexxxt.com:19806/65792289000516983171ebcb68d70d48
 KOMO 4 TV,mitv://generationnexxxt.com:19806/65791ef700074fd53163fa0823ae64b8
 
-巴西,#genre#
-ATV,https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-ATV,http://190.116.90.43:8000/play/a005
-Record News,https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-Record News,http://cdn2.connectbr.com.br/Record-News-/tracks-v1a1/mono.m3u8
-Universal,http://208.115.225.174:14128
-Universal,http://45.236.175.2:1018
-WB TV,http://208.115.225.174:14132
-Telecine Pipoca,http://51.83.238.223:16763/
-Universal Channel,http://51.83.238.223:16883/
-Disney Channel,http://51.83.238.223:16274/
-Disney Channel,http://45.236.175.2:1010
-AXN,http://51.83.238.223:16941/
-HBO,http://51.83.238.223:16045/
-HBO,http://208.115.225.174:14136
-HBO,http://208.115.225.174:14165
-HBO,http://190.116.90.43:8000/play/a007
-HBO,http://45.236.175.2:1031
-VIVO,http://51.83.238.223:16515/
-Globo MG,http://185.150.190.225:16263/
-A&E,http://187.95.95.247/AE/index.m3u8
-BDMG,http://208.115.225.174:14263
-Prime Box,http://187.95.95.247/Prime/index.m3u8
-Star Channel,http://187.95.95.247/Star/index.m3u8
-Cinecanal,http://187.95.95.247/cinecanal/index.m3u8
-Cinecanal,http://45.236.175.2:1028
-paramount,https://cdn2.connectbr.com.br/paramount/index.m3u8
-Nick,http://187.95.95.247/Nickelodeon/index.m3u8
-Paramount,http://187.95.95.247/paramount/index.m3u8
-History,http://187.95.95.247/History/index.m3u8
-History,http://cdn2.connectbr.com.br/History/tracks-v1a1/mono.m3u8
-History,http://cdn2.connectbr.com.br/History/video.m3u8
-H2,http://187.95.95.247/h2/index.m3u8
-Arte,http://187.95.95.247/Arte/manifest.m3u8
-Lifetime,http://187.95.95.247/lifetime/manifest.m3u8
-Band Sports,http://187.95.95.247/Band-Sports/index.m3u8
-Band News,http://187.95.95.247/Band-News/mono.m3u8
-BandSports,http://cdn2.connectbr.com.br:80/Band-Sports/tracks-v1a1/mono.m3u8
-Film & Arts ,http://168.197.196.98:9981/stream/channelid/781436987?profile=pass
-Europa Europa,http://168.197.196.98:9981/stream/channelid/918671342?profile=pass
-A&E ,http://38.41.8.1:8000/play/a006
-A&E ,http://199.127.60.83:16002/
-AMC,http://38.41.8.1:8000/play/a01s
-AMC,http://199.127.60.83:16004
-AXN ,http://38.41.8.1:8000/play/a009
-ANIMAL PLANET ,http://199.127.60.83:16192
-CARTOONITO ,http://199.127.60.83:14682
-CARTOONNETWORK ,http://199.127.60.83:14687/
-FX ,http://199.127.60.83:16043/
-FX ,http://38.41.8.1:8000/play/a01h
-FX ,http://190.116.90.43:8000/play/a00j
-GLOBO,http://199.127.60.83:16020
-SBT ,http://209.222.97.92:16173
-SBT ,http://199.127.60.83:16170
-Globo News ,http://209.222.97.92:16436
-RedeVIVA,http://185.150.190.225:14071
-FashionTV,http://185.150.190.225:14961
-Globo ,http://15.235.55.115:14107
-Animal Planet ,http://38.41.8.1:8000/play/a023
-Animal Planet ,http://190.116.90.43:8000/play/a00q
-Cinecanal ,http://38.41.8.1:8000/play/a01r
-Cinemax ,http://38.41.8.1:8000/play/a00y
-Discovery Channel,http://38.41.8.1:8000/play/a07l
-Discovery Channel,http://45.236.175.2:1050
-Discovery H&H ,http://38.41.8.1:8000/play/a017
-Discovery ,http://38.41.8.1:8000/play/a02y
-Discovery ,http://190.116.90.43:8000/play/a00t
-Discovery Theater ,http://38.41.8.1:8000/play/a018
-Discovery Theater ,http://190.116.90.43:8000/play/a00g
-Discovery Turbo,http://38.41.8.1:8000/play/a068
-History Channel ,http://38.41.8.1:8000/play/a005
-Nat Geo ,http://38.41.8.1:8000/play/a01p
-STAR CHANNEL  a,http://38.41.8.1:8000/play/a00h
-STAR CHANNEL  b,http://38.41.8.1:8000/play/a019
-STAR CHANNEL  c,http://38.41.8.1:8000/play/a02r
-STAR CHANNEL  d,http://38.41.8.1:8000/play/a02s
-Sony ,http://38.41.8.1:8000/play/a007
-Space ,http://38.41.8.1:8000/play/a00a
-Studio Universal ,http://38.41.8.1:8000/play/a01y
-Studio Universal ,http://190.116.90.43:8000/play/a00p
-Sun Channel ,http://38.41.8.1:8000/play/a015
-SyFy,http://38.41.8.1:8000/play/a057
-TBS,http://38.41.8.1:8000/play/a074
-TCM,http://38.41.8.1:8000/play/a04x
-TCM,http://45.236.175.2:1020
-TNT ,http://38.41.8.1:8000/play/a00s
-UNIVERSAL CHANNEL ,http://38.41.8.1:8000/play/a01a
-Venus,http://38.41.8.1:8000/play/a07w
-Warner Channel ,http://38.41.8.1:8000/play/a008
-HBO 2,http://208.115.225.174:14140
-HBO 2,http://45.236.175.2:1022
-HBO Mundi,http://208.115.225.174:14148
-HBO Signature,http://208.115.225.174:14160
-SBT,http://208.115.225.174:14170
-SBT,http://208.115.225.174:14476
-SBT1,http://208.115.225.174:14173
-SBT2,http://208.115.225.174:14176
-America TV ,http://190.116.90.43:8000/play/a010
-Canal N,http://190.116.90.43:8000/play/a004
-Cartoon Network ,http://190.116.90.43:8000/play/a00n
-Discovery Kids ,http://190.116.90.43:8000/play/a00f
-Disney Junior,http://190.116.90.43:8000/play/a00b
-ESPN 4 ,http://190.116.90.43:8000/play/a00h
-ESPN ,http://190.116.90.43:8000/play/a00z
-FOX Sports 2 ,http://190.116.90.43:8000/play/a00i
-Fox Sports 1 ,http://190.116.90.43:8000/play/a00u
-GLOBAL,http://190.116.90.43:8000/play/a006
-GOLPERU ,http://190.116.90.43:8000/play/a012
-Golden ,http://190.116.90.43:8000/play/a00y
-HBO XTREME ,http://190.116.90.43:8000/play/a00w
-HBO XTREME ,http://45.236.175.2:1030
-HBO2,http://190.116.90.43:8000/play/a008
-History 2 ,http://190.116.90.43:8000/play/a00v
-History Channel,http://190.116.90.43:8000/play/a00c
-History Channel,http://45.236.175.2:1048
-Las Estrellas ,http://190.116.90.43:8000/play/a00s
-Latina ,http://190.116.90.43:8000/play/a011
-Movistar Deportes ,http://190.116.90.43:8000/play/a00x
-Panamericana,http://190.116.90.43:8000/play/a002
-Paramount ,http://190.116.90.43:8000/play/a00o
-RPP,http://190.116.90.43:8000/play/a00a
-STAR CHANNEL ,http://190.116.90.43:8000/play/a016
-TV PERU,http://190.116.90.43:8000/play/a003
-Telenovelas,http://190.116.90.43:8000/play/a00d
-La Red,http://45.236.175.2:1001
-TVN,http://45.236.175.2:1002
-CHV,http://45.236.175.2:1004
-CANAL 13,http://45.236.175.2:1005
-Mega,http://45.236.175.2:1003
-Cartoon Network,http://45.236.175.2:1011
-Nickelodeon,http://45.236.175.2:1012
-24 HORAS,http://45.236.175.2:1007
-CNN Chile,http://45.236.175.2:1008
-CNN Espanol,http://45.236.175.2:1009
-Nick Jr,http://45.236.175.2:1013
-Discovery Kids,http://45.236.175.2:1014
-Disney Jr,http://45.236.175.2:1015
-Studio Universal,http://45.236.175.2:1023
-Space,http://45.236.175.2:1026
-STAR CHANNEL,http://45.236.175.2:1027
-I-Sat,http://45.236.175.2:1019
-Cinemax,http://45.236.175.2:1025
-HBO Family,http://45.236.175.2:1017
-HBO Family,http://208.115.225.174:14144
-Warner,http://45.236.175.2:1021
-TNT,http://45.236.175.2:1032
-ESPN 4,http://45.236.175.2:1035
-ESPN 4,http://45.236.175.2:1058
-ESPN 4,http://208.115.225.174:14510
-Nat Geo,http://45.236.175.2:1044
-Fox Sports 1,http://45.236.175.2:1040
-TNT SPORTS 2,http://45.236.175.2:1036
-Fox Sports 3,http://45.236.175.2:1034
-ESPN 2,http://45.236.175.2:1039
-TNT SPORTS 3,http://45.236.175.2:1037
-TLC,http://45.236.175.2:1042
-TLC,http://45.236.175.2:1060
-HomeandHealth,http://45.236.175.2:1043
-Discovery ID,http://45.236.175.2:1046
-Animal Planet,http://45.236.175.2:1045
-Animal Planet,http://208.115.225.174:14192
-E Entertainment,http://45.236.175.2:1047
-AE Mundo,http://45.236.175.2:1049
-Telemundo,http://45.236.175.2:1051
-Canal Estrellas,http://45.236.175.2:1052
-RCN Novelas,http://45.236.175.2:1053
-MTV,http://45.236.175.2:1055
-ViaX,http://45.236.175.2:1054
-HBO Plus,http://45.236.175.2:1057
-HBO Plus,http://208.115.225.174:14152
-Zona Latina,http://45.236.175.2:1056
-Fox Sports 2,http://45.236.175.2:1059
-Fox Sports 2,http://15.235.10.31:14326
-Fox Sports 2,http://15.235.10.31:14329
-ESPN,http://45.236.175.2:1061
-Formula 1,http://208.115.225.174:14420
-Formula 1,http://208.115.225.174:14428
-Premiere,http://208.115.225.174:14460
-Premiere,http://208.115.225.174:14468
-Premiere,http://208.115.225.174:14464
-Premiere,http://208.115.225.174:14472
-TV Globo,http://208.115.225.174:14020
-TV Globo,http://208.115.225.174:14259
-TV Globo,http://208.115.225.174:14271
-HBO Pop,http://208.115.225.174:14156
-ESPN Vivo,http://208.115.225.174:14754
 
 印度,#genre#
 ZEE NEWS,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
@@ -5319,557 +5138,6 @@ Thairath TV,http://183.89.246.119:8010/play/a00i/index.m3u8
 True4U,http://183.89.246.119:8010/play/a00d/index.m3u8
 Workpoint TV,http://183.89.246.119:8010/play/a00c/index.m3u8
 
-土耳其,#genre#
-mekameleen tv,https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1264000.m3u8
-El-Sharq TV,https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
-TRT,http://tv-trtarabi.live.trt.com.tr/master.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
-TRT World,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/15892
-trt1,https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=623d433esryn&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-TRT1,https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
-TRT1,https://tv-trt1-dai.medya.trt.com.tr/master_1.m3u8
-TRT1,http://195.155.98.170:5858/play/a09j
-TRT1,https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
-HABER,https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-Çocuk,https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-Belgesel,https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-Avaz,https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-1 : KACKAR TV,http://46.45.158.8:8096/bysid/51200
-2 : BEYAZ TV ,http://46.45.158.8:8096/bysid/51201
-3 : TURKSAT_TEST,http://46.45.158.8:8096/bysid/51202
-4 : DIYANET TV ,http://46.45.158.8:8096/bysid/51203
-5 : HABER GLOBAL,http://46.45.158.8:8096/bysid/51207
-6 : UVI JEWELLERY,http://46.45.158.8:8096/bysid/51208
-7 : POLIS RADYOSU,http://46.45.158.8:8096/bysid/51211
-8 : DIYANET RADYO,http://46.45.158.8:8096/bysid/51212
-9 : KUR AN RADYO,http://46.45.158.8:8096/bysid/51214
-11 : RISALET RADYO,http://46.45.158.8:8096/bysid/51216
-12 : KUPE FM,http://46.45.158.8:8096/bysid/51217
-13 : RADYO TRIO,http://46.45.158.8:8096/bysid/51218
-14 : RADYO SPOR,http://46.45.158.8:8096/bysid/51219
-15 : RADYOBILIM,http://46.45.158.8:8096/bysid/51220
-17 : ST ENDUSTRI RADYO,http://46.45.158.8:8096/bysid/51221
-1 : KABE(CANLI) AL QURAN,http://46.45.158.8:8098/bysid/51000
-2 : SAUDI SUNNAH,http://46.45.158.8:8098/bysid/51001
-3 : SEMERKAND ,http://46.45.158.8:8098/bysid/51006
-4 : SEMERKAND WAY,http://46.45.158.8:8098/bysid/51007
-5 : RUSSIA 24 TV,http://46.45.158.8:8098/bysid/51009
-6 : RTR PLANETA,http://46.45.158.8:8098/bysid/51010
-7 : AL ZAHRA TV,http://46.45.158.8:8098/bysid/51011
-8 : SEMERKAND RADYO,http://46.45.158.8:8098/bysid/51013
-9 : PAL NOSTALJI,http://46.45.158.8:8098/bysid/51015
-TRT Diyanet,https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-Habertürk TV,https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-24 TV,https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
-24 TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21639
-TGRT Haber,https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-Haber Global,https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-Show TV,https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-Semerkand TV,https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-Kanal 7,https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-Beyaz TV,https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-360 TV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-TRT 1 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21608
-TRT 2 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21609
-TRT TURK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21610
-ATV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21611
-SHOW TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21612
-STAR TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21613
-KANAL D ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21614
-FOX TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21615
-TV8 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21616
-TV 8.5 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21617
-TEVE 2 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21618
-A2 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21619
-BEYAZ TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21620
-KANAL 7 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21621
-TGRT EU ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21622
-360 TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21623
-SHOWMAX,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21624
-A HABER ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21625
-NTV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21626
-HABERTURK ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21627
-CNN TURK ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21628
-BLOOMBERG HT,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21629
-HALK TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21630
-ULUSAL TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21631
-KRT ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21632
-TV 100 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21633
-TGRT HABER ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21634
-TVNET ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21635
-ULKE TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21636
-AKiT TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21637
-TRT 4K,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21638
-YOL TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21640
-TELE 1,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21641
-BLOOMBERGHT TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21642
-TLC ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21643
-AKILLI TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21644
-CARTOON NETWORK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21645
-DISNEY CHANNEL,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21646
-PEPEE TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21647
-NICKTOONS,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21648
-MINIKA COCUK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21649
-MINIKA GO,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21650
-TRT COCUK ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21651
-CEM TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21652
-KONTV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21653
-KANAL AVRUPA,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21654
-DREAM TURK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21655
-KRAL POP,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21656
-KRAL TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21657
-POWERTURK ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21658
-MELTEM TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21659
-TRT AVAZ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21660
-HABER 61,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21661
-TRABZON TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21662
-EGE TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21663
-SRT Sivas,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21664
-KOCAELI TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21665
-HRT AKDENIZ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21666
-24 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21667
-KANAL 26,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21668
-PAMUKKALE TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21669
-TV 264,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21670
-KANAL URFA,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21671
-DEHA TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21672
-EKO TK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21673
-AV TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21674
-TV 4 ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21675
-Can TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21676
-TV NET ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21677
-KON TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21678
-Kayseri TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21679
-TVEM,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21680
-Kanal Avrupa,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21681
-CIFTCI TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21682
-KENT TK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21683
-Koy TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21684
-ANADOLU DERNEK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21685
-YILDIZ EN TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21686
-Cay TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21687
-KADIRGA TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21688
-MAVI KARADENIZ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21689
-TRT DIYANET,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21690
-SEMERKAND TV ,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21691
-Lalegul Tv,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21692
-RUMELI TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21693
-Mesaj TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21694
-DOST TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21695
-EURO STAR,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21696
-SHOW TURK,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21697
-ATV AVRUPA,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21698
-EURO D,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21699
-
-阿富汗,#genre#
-Afghanistan International,https://hls.afintl.com/hls/stream.m3u8
-rta,https://hls.rta.live/hls/stream.m3u8
-rtasport,https://hls.rtasport.live/hls/stream.m3u8
-SHARQ,https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/chunks.m3u8
-哥伦比亚,QQ群334597477QQ群197853033,
-VISION4,https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/vision4-avc1_1500000=5-mp4a_65200_qad=1.m3u8
-NOTRE TELEVISION,https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/chunks.m3u8
-AE Mundo,http://190.61.43.117:45000/play/a05q
-AXN,http://190.61.43.117:45000/play/a05g
-Animal Planet,http://190.61.43.117:45000/play/a05r
-Baby TV,http://190.61.43.117:45000/play/a03r
-CNN Espanol,http://190.61.43.117:45000/play/a044
-Canal Estrellas,http://190.61.43.117:45000/play/a06h
-Canal Institucional,http://190.61.43.117:45000/play/a039
-Canal Uno,http://190.61.43.117:45000/play/a036
-Canal del Congreso,http://190.61.43.117:45000/play/a03a
-Capital,http://190.61.43.117:45000/play/a03g
-Caracol ,http://190.61.43.117:45000/play/a02v
-Cartoon Network ,http://190.61.43.117:45000/play/a01y
-Cinemax,http://190.61.43.117:45000/play/a05i
-City TV,http://190.61.43.117:45000/play/a03f
-Discovery ,http://190.61.43.117:45000/play/a02y
-Discovery ID,http://190.61.43.117:45000/play/a06e
-Discovery Kids ,http://190.61.43.117:45000/play/a019
-Discovery Turbo,http://190.61.43.117:45000/play/a040
-Disney Channel,http://190.61.43.117:45000/play/a06b
-Disney Jr,http://190.61.43.117:45000/play/a045
-ESPN 2 ,http://190.61.43.117:45000/play/a053
-ESPN 3 ,http://190.61.43.117:45000/play/a051
-ESPN 4,http://190.61.43.117:45000/play/a06w
-ESPN EXTRA ,http://190.61.43.117:45000/play/a01v
-ESPN ,http://190.61.43.117:45000/play/a01l
-FOX Sports 2 ,http://190.61.43.117:45000/play/a01g
-FX ,http://190.61.43.117:45000/play/a01k
-Fox Sports 3,http://190.61.43.117:45000/play/a060
-Golden ,http://190.61.43.117:45000/play/a029
-HBO 2 ,http://190.61.43.117:45000/play/a023
-HBO Family,http://190.61.43.117:45000/play/a05y
-HBO ,http://190.61.43.117:45000/play/a01w
-HBO XTREME ,http://190.61.43.117:45000/play/a05u
-History Channel,http://190.61.43.117:45000/play/a061
-HomeandHealth,http://190.61.43.117:45000/play/a06f
-I-Sat,http://190.61.43.117:45000/play/a03v
-Nat Geo,http://190.61.43.117:45000/play/a06i
-Nickelodeon,http://190.61.43.117:45000/play/a03u
-Pasiones ,http://190.61.43.117:45000/play/a04x
-RCN ,http://190.61.43.117:45000/play/a01m
-RCN Novelas,http://190.61.43.117:45000/play/a06d
-STAR CHANNEL,http://190.61.43.117:45000/play/a05h
-Senal Colombia,http://190.61.43.117:45000/play/a03b
-Space,http://190.61.43.117:45000/play/a06l
-Studio Universal ,http://190.61.43.117:45000/play/a020
-TCM,http://190.61.43.117:45000/play/a04a
-TLC,http://190.61.43.117:45000/play/a042
-TNT ,http://190.61.43.117:45000/play/a050
-TNT Novelas ,http://190.61.43.117:45000/play/a06u
-TNT Series ,http://190.61.43.117:45000/play/a01j
-TRO,http://190.61.43.117:45000/play/a03d
-Teleantioquia,http://190.61.43.117:45000/play/a03i
-Telecafe,http://190.61.43.117:45000/play/a03l
-Telecaribe,http://190.61.43.117:45000/play/a03k
-Telemundo,http://190.61.43.117:45000/play/a049
-Telepacifico,http://190.61.43.117:45000/play/a03j
-Tooncast,http://190.61.43.117:45000/play/a03s
-Trece,http://190.61.43.117:45000/play/a03m
-Universal Cinema ,http://190.61.43.117:45000/play/a05x
-Universal Comedy ,http://190.61.43.117:45000/play/a06k
-Universal Premiere ,http://190.61.43.117:45000/play/a05w
-Warner,http://190.61.43.117:45000/play/a05o
-Win,http://190.61.43.117:45000/play/a067
-Win Sports+ ,http://190.61.43.117:45000/play/a024
-
-法国,#genre#
-KTO,https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-Fashion tv,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-Fashion tv,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-M6,https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
-M6,http://144.217.72.24:80/m6/index.m3u8
-M6,http://itaewon.ktv.zone/8/8eb50818_1702963061_0000009740000_766507.ts
-C8,http://144.217.72.24:80/c8/index.m3u8
-W9,http://144.217.72.24:80/w9/index.m3u8
-6Ter,http://144.217.72.24:80/6ter/index.m3u8
-TFX,http://144.217.72.24:80/TFX/index.m3u8
-TFX,http://144.217.72.24/TFX/index.m3u8?token=test
-Paris Premiere,http://144.217.72.24:80/parispremiere/index.m3u8
-Cherie 25,http://144.217.72.24:80/cherie25/index.m3u8
-Teva,http://144.217.72.24/teva/index.m3u8
-RMC Story,http://144.217.72.24/rmcstory/index.m3u8
-1,http://livetv.ktv.zone/1/play.m3u8
-2,http://livetv.ktv.zone/2/play.m3u8
-3,http://livetv.ktv.zone/3/play.m3u8
-4,http://livetv.ktv.zone/4/play.m3u8
-5,http://livetv.ktv.zone/5/play.m3u8
-6,http://livetv.ktv.zone/6/play.m3u8
-7,http://livetv.ktv.zone/7/play.m3u8
-8,http://livetv.ktv.zone/8/play.m3u8
-9,http://livetv.ktv.zone/9/play.m3u8
-10,http://livetv.ktv.zone/10/play.m3u8
-11,http://livetv.ktv.zone/11/play.m3u8
-12,http://livetv.ktv.zone/12/play.m3u8
-13,http://livetv.ktv.zone/13/play.m3u8
-14,http://livetv.ktv.zone/14/play.m3u8
-15,http://livetv.ktv.zone/15/play.m3u8
-16,http://livetv.ktv.zone/16/play.m3u8
-17,http://livetv.ktv.zone/17/play.m3u8
-18,http://livetv.ktv.zone/18/play.m3u8
-19,http://livetv.ktv.zone/19/play.m3u8
-20,http://livetv.ktv.zone/20/play.m3u8
-21,http://livetv.ktv.zone/21/play.m3u8
-22,http://livetv.ktv.zone/22/play.m3u8
-23,http://livetv.ktv.zone/23/play.m3u8
-24,http://livetv.ktv.zone/24/play.m3u8
-25,http://livetv.ktv.zone/25/play.m3u8
-26,http://livetv.ktv.zone/26/play.m3u8
-27,http://livetv.ktv.zone/27/play.m3u8
-28,http://livetv.ktv.zone/28/play.m3u8
-29,http://livetv.ktv.zone/29/play.m3u8
-30,http://livetv.ktv.zone/30/play.m3u8
-31,http://livetv.ktv.zone/31/play.m3u8
-32,http://livetv.ktv.zone/32/play.m3u8
-33,http://livetv.ktv.zone/33/play.m3u8
-34,http://livetv.ktv.zone/34/play.m3u8
-35,http://livetv.ktv.zone/35/play.m3u8
-36,http://livetv.ktv.zone/36/play.m3u8
-37,http://livetv.ktv.zone/37/play.m3u8
-38,http://livetv.ktv.zone/38/play.m3u8
-39,http://livetv.ktv.zone/39/play.m3u8
-40,http://livetv.ktv.zone/40/play.m3u8
-41,http://livetv.ktv.zone/41/play.m3u8
-42,http://livetv.ktv.zone/42/play.m3u8
-43,http://livetv.ktv.zone/43/play.m3u8
-44,http://livetv.ktv.zone/44/play.m3u8
-45,http://livetv.ktv.zone/45/play.m3u8
-46,http://livetv.ktv.zone/46/play.m3u8
-47,http://livetv.ktv.zone/47/play.m3u8
-48,http://livetv.ktv.zone/48/play.m3u8
-49,http://livetv.ktv.zone/49/play.m3u8
-50,http://livetv.ktv.zone/50/play.m3u8
-51,http://livetv.ktv.zone/51/play.m3u8
-52,http://livetv.ktv.zone/52/play.m3u8
-53,http://livetv.ktv.zone/53/play.m3u8
-54,http://livetv.ktv.zone/54/play.m3u8
-55,http://livetv.ktv.zone/55/play.m3u8
-56,http://livetv.ktv.zone/56/play.m3u8
-57,http://livetv.ktv.zone/57/play.m3u8
-ABC ,http://49.0.64.96:8007/ABC
-Action ,http://49.0.64.96:8007/Action
-Amazing ,http://49.0.64.96:8007/AMAZING
-Bunthengken100,http://49.0.64.96:8007/Bunthengken100
-CARTOON Umi ,http://49.0.64.96:8007/Cartoonumi
-Chillayo ,http://49.0.64.96:8007/Chillayo
-Cinemachi ,http://49.0.64.96:8007/Cinemachi
-Discovery ,http://49.0.64.96:8007/Discovery
-FOX News ,http://49.0.64.96:8007/FOXNEWS
-France 24 (en Francais),http://49.0.64.96:8007/France24
-GINX ,http://49.0.64.96:8007/GINX
-GOLF ,http://49.0.64.96:8007/GOLF
-FBI H-Channel ,http://49.0.64.96:8007/H-Channel
-HI Fight ,http://49.0.64.96:8007/HIFIGHT
-HI Sport ,http://49.0.64.96:8007/HiSports
-IZAA ,http://49.0.64.96:8007/IZAA
-Shop Now True Select,http://49.0.64.96:8007/JAJINGJA
-Kaset ,http://49.0.64.96:8007/Kaset
-CH 88 ,http://49.0.64.96:8007/M_CH88
-DTV4 M2rock ,http://49.0.64.96:8007/M2ROCK
-DTV1 M4jazz ,http://49.0.64.96:8007/M4JAZZ
-DTV3 M6country ,http://49.0.64.96:8007/M6COUNTRY
-NBA One ,http://49.0.64.96:8007/NBA
-PetClub ,http://49.0.64.96:8007/PetClub
-PING ,http://49.0.64.96:8007/PING
-Pluse ,http://49.0.64.96:8007/PLUSE
-SANOOK ,http://49.0.64.96:8007/Qartar
-RAI Asia Intl.,http://49.0.64.96:8007/RAI_Asia
-Series ,http://49.0.64.96:8007/SERIES
-Smithsonian ,http://49.0.64.96:8007/Smithsonian
-DTV2 Tennis ,http://49.0.64.96:8007/TENNIS
-Top Fight ,http://49.0.64.96:8007/TOPFIGHT
-Trace ,http://49.0.64.96:8007/Trace
-TV5,http://49.0.64.96:8007/TV5
-WORLD ANIMAL ,http://49.0.64.96:8007/Animal
-WSCI ,http://49.0.64.96:8007/WSCI
-Zoomoo ,http://49.0.64.96:8007/Zoomoo
-France 2,http://69.64.57.208/France2/mono.m3u8
-France 2,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10099
-France 3,http://144.217.72.24:80/france3/index.m3u8
-France 4,http://144.217.72.24:80/france4/index.m3u8
-France 5,http://144.217.72.24:80/france5/index.m3u8
-Africa 24,https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-6ter,http://144.217.72.24/6ter/index.m3u8?token=test
-A3,http://144.217.72.24/A3/index.m3u8?token=test
-aloula,http://144.217.72.24/aloula/index.m3u8?token=test
-berberetv,http://144.217.72.24/berberetv/index.m3u8?token=test
-c8,http://144.217.72.24/c8/index.m3u8?token=test
-canalalgerie,http://144.217.72.24/canalalgerie/index.m3u8?token=test
-cbc,http://144.217.72.24/cbc/index.m3u8?token=test
-cbcdrama,http://144.217.72.24/cbcdrama/index.m3u8?token=test
-cherie25,http://144.217.72.24/cherie25/index.m3u8?token=test
-ennahar,http://144.217.72.24/ennahar/index.m3u8?token=test
-france3,http://144.217.72.24/france3/index.m3u8?token=test
-france4,http://144.217.72.24/france4/index.m3u8?token=test
-france5,http://144.217.72.24/france5/index.m3u8?token=test
-hannibal,http://144.217.72.24/hannibal/index.m3u8?token=test
-m6,http://144.217.72.24/m6/index.m3u8?token=test
-mbc1,http://144.217.72.24/mbc1/index.m3u8?token=test
-mbc2,http://144.217.72.24/mbc2/index.m3u8?token=test
-mbc3,http://144.217.72.24/mbc3/index.m3u8?token=test
-mbc4,http://144.217.72.24/mbc4/index.m3u8?token=test
-mbc5,http://144.217.72.24/mbc5/index.m3u8?token=test
-mbcaction,http://144.217.72.24/mbcaction/index.m3u8?token=test
-mbcbollywood,http://144.217.72.24/mbcbollywood/index.m3u8?token=test
-mbcdrama,http://144.217.72.24/mbcdrama/index.m3u8?token=test
-mbcdramaplus,http://144.217.72.24/mbcdramaplus/index.m3u8?token=test
-mbcmasr,http://144.217.72.24/mbcmasr/index.m3u8?token=test
-mediaset,http://144.217.72.24/mediaset/index.m3u8?token=test
-mediasetextra,http://144.217.72.24/mediasetextra/index.m3u8?token=test
-nbn,http://144.217.72.24/nbn/index.m3u8?token=test
-onetv,http://144.217.72.24/onetv/index.m3u8?token=test
-otv,http://144.217.72.24/otv/index.m3u8?token=test
-parispremiere,http://144.217.72.24/parispremiere/index.m3u8?token=test
-rai,http://144.217.72.24/rai/index.m3u8?token=test
-rai1,http://144.217.72.24/rai1/index.m3u8?token=test
-rai5,http://144.217.72.24/rai5/index.m3u8?token=test
-rmcstory,http://144.217.72.24/rmcstory/index.m3u8?token=test
-samiratv,http://144.217.72.24/samiratv/index.m3u8?token=test
-tamazight,http://144.217.72.24/tamazight/index.m3u8?token=test
-teva,http://144.217.72.24/teva/index.m3u8?token=test
-Angel TV Europe,https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
-BBC Doctor Who,https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
-BBC Drama,https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
-BFM Marseille,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
-BFM Normandie,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-BFM Paris Île-de-France,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
-Bref Cinéma 100% Court Métrage,https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
-Caillou,https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
-Canal 32,http://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
-Central TV,http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-Clubbing TV,https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
- France 3,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10100
- France 4,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10101
- France 5,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10102
- France O,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10103
- France 24,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10104
- Euronews France,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10105
- M6,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10106
- W9,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10107
- C8,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10108
- BFM TV,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10109
- Arte,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10110
- TF1,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10111
- Gulli,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10112
- Cine Premier,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10113
- Cine Emotion,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10114
- Disney XD,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10115
- Carton Network,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10116
- Canal  Series,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10118
- Canal  Family,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10119
- Canal  Decale,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10120
-
-德国,#genre#
-mytvplus,https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-ARD,http://mcdn.daserste.de/daserste/de/master.m3u8
-ARD Alpha,https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-BR Nord,https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-BR Süd,https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-
-保加利亚,#genre#
-Evrokom,https://live.ecomservice.bg/hls/stream.m3u8
-Evrokom,http://62.176.77.22:9781/play/a00j
-AMC,http://62.176.77.22:9781/play/a008
-Alfa TV,http://62.176.77.22:9781/play/a00h
-BNT 4,http://62.176.77.22:9781/play/a00b
-Bulgare,http://62.176.77.22:9781/play/a00k
-DM Sat,http://62.176.77.22:9781/play/a00c
-Discovery Science,http://62.176.77.22:9781/play/a00g
-BNT,http://78.130.248.5:81/stream/channelid/531942714?profile=pass
-bTV,http://78.130.248.5:81/stream/channelid/1779173997?profile=pass
-Nova TV,http://78.130.248.5:81/stream/channelid/693880053?profile=pass
-BNT2,http://78.130.248.5:81/stream/channelid/811247589?profile=pass
-BNT3,http://78.130.248.5:81/stream/channelid/256219489?profile=pass
-Bulgaria on Air,http://78.130.248.5:81/stream/channelid/1109420898?profile=pass
-
-智利,#genre#
-AE Mundo,http://200.37.187.210:8460/play/a019
-ATV,http://200.37.187.210:8460/play/a023
-AXN,http://200.37.187.210:8460/play/a01m
-America TV PY,http://200.37.187.210:8460/play/a028
-AmericaTV,http://200.37.187.210:8460/play/a021
-Animal Planet,http://200.37.187.210:8460/play/a011
-BabyFirst,http://200.37.187.210:8460/play/a00w
-CNN Chile,http://200.37.187.210:8460/play/a00m
-CNN Espanol,http://200.37.187.210:8460/play/a002
-Canal Estrellas,http://200.37.187.210:8460/play/a01c
-Cartoon Network,http://200.37.187.210:8460/play/a00p
-Cine Mexicano,http://200.37.187.210:8460/play/a047
-Cinecanal,http://200.37.187.210:8460/play/a00h
-Cinemax,http://200.37.187.210:8460/play/a01k
-Discovery Channel,http://200.37.187.210:8460/play/a010
-Discovery ID,http://200.37.187.210:8460/play/a01v
-Discovery Kids,http://200.37.187.210:8460/play/a001
-Discovery Turbo,http://200.37.187.210:8460/play/a01q
-Disney Channel,http://200.37.187.210:8460/play/a00z
-Disney Jr,http://200.37.187.210:8460/play/a01g
-E Entertainment,http://200.37.187.210:8460/play/a013
-ESPN,http://200.37.187.210:8460/play/a016
-ESPN 2,http://200.37.187.210:8460/play/a00c
-ESPN 2 Latin,http://200.37.187.210:8460/play/a015
-ESPN 3,http://200.37.187.210:8460/play/a01s
-ESPN 4,http://200.37.187.210:8460/play/a024
-ESPN CO,http://200.37.187.210:8460/play/a042
-ESPN CO,http://200.37.187.210:8460/play/a01i
-EWTN,http://200.37.187.210:8460/play/a03p
-Enlace,http://200.37.187.210:8460/play/a00u
-Esne TV,http://200.37.187.210:8460/play/a01r
-FX,http://200.37.187.210:8460/play/a01o
-Fox Sports 2,http://200.37.187.210:8460/play/a01d
-Fox Sports 3,http://200.37.187.210:8460/play/a01e
-France 24,http://200.37.187.210:8460/play/a01w
-HBO,http://200.37.187.210:8460/play/a01j
-HBO 2,http://200.37.187.210:8460/play/a005
-HBO Family,http://200.37.187.210:8460/play/a008
-HBO Plus,http://200.37.187.210:8460/play/a006
-HBO XTREME ,http://200.37.187.210:8460/play/a03a
-History Channel,http://200.37.187.210:8460/play/a00g
-HomeandHealth,http://200.37.187.210:8460/play/a03k
-I-Sat,http://200.37.187.210:8460/play/a00j
-Latina,http://200.37.187.210:8460/play/a020
-Lifetime,http://200.37.187.210:8460/play/a00x
-Liga 1 Max,http://200.37.187.210:8460/play/a045
-MTV,http://200.37.187.210:8460/play/a00k
-Nat Geo,http://200.37.187.210:8460/play/a00f
-Nick Jr,http://200.37.187.210:8460/play/a01p
-Nickelodeon,http://200.37.187.210:8460/play/a00e
-Panamericana TV,http://200.37.187.210:8460/play/a022
-RCN Novelas,http://200.37.187.210:8460/play/a01u
-STAR CHANNEL,http://200.37.187.210:8460/play/a00n
-Sin Limites,http://200.37.187.210:8460/play/a027
-Sony,http://200.37.187.210:8460/play/a01l
-Space,http://200.37.187.210:8460/play/a01n
-Studio Universal,http://200.37.187.210:8460/play/a00b
-Studio Universal (clone),http://200.37.187.210:8460/play/a048
-SyFy,http://200.37.187.210:8460/play/a00y
-TCM,http://200.37.187.210:8460/play/a00o
-TLC,http://200.37.187.210:8460/play/a01a
-TNT,http://200.37.187.210:8460/play/a00q
-TNT Novelas,http://200.37.187.210:8460/play/a01y
-TV Agro,http://200.37.187.210:8460/play/a046
-TV Peru,http://200.37.187.210:8460/play/a025
-TV+,http://200.37.187.210:8460/play/a03q
-TVE,http://200.37.187.210:8460/play/a00v
-Telemundo,http://200.37.187.210:8460/play/a01f
-TyC,http://200.37.187.210:8460/play/a017
-Universal,http://200.37.187.210:8460/play/a00i
-ViaX,http://200.37.187.210:8460/play/a01b
-WILLAX,http://200.37.187.210:8460/play/a01z
-Warner,http://200.37.187.210:8460/play/a012
-Zona Latina,http://200.37.187.210:8460/play/a00l
-
-波兰,#genre#
-TVP,http://78.129.193.20/tsstreamer/TVP_.ts
-VOX,http://188.227.164.31/tsstreamer/VoxAfrica_.ts
-VOX,http://83.238.183.196:1000/udp/239.192.9.3:1234
-TVPSeriale,https://cdn-main.lolokoko.tv/TVPSeriale.stream/chunks.m3u8
-TVT Zgorzelec,http://gargoyle.tomkow.pl/hls/tvt.m3u8
-DZ,http://146.59.70.61:8880/153/token=0e318668ba9b1d41dd3333/video.m3u8
-TV Torun ,http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
-TV Toruń (1080p),http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-TV Kujawy,http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-Telewizja Toruń,http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-Sfera TV (480p),http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
-KINO POLSKA ,http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460836
-VOX Music TV,http://146.59.54.163:80/VOX-Music-TV/mono.m3u8
-Eska TV Extra ,http://146.59.54.163:80/Eska-TV-Extra/mono.m3u8
-TVP1,http://178.219.128.68:64889/TVP1
-DOMO,http://178.219.128.68:64889/DOMO
-TVP3 Bialystok,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-TVP3 Bydgoszcz,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
-TVP3 Gdansk,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-TVP3 Gorzow Wielkopolski,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
-TVP3 Info,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-TVP3 Katowice,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-TVP3 Kielce,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
-TVP3 Krakow,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-TVP3 Lodz,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-TVP3 Lublin,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
-TVP3 Olsztyn,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
-TVP3 Opole,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
-TVP3 Poznan,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
-TVP3 Rzeszow,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
-TVP3 Szczecin,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-TVP3 Warszawa,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-TVP3 Wroclaw,http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
-Eska TV ,http://146.59.54.163:80/Eska-TV/mono.m3u8
-
-荷兰,#genre#
-TVR2,http://94.156.33.91/TVR2-Romania/index.m3u8
-TVR1 ,http://94.156.33.91/TVR1-Romania/index.m3u8
-TVR3,http://94.156.33.91/TVR3-Romania/index.m3u8
-TVRInternational ,http://94.156.33.91/TVRInternational-Romania/index.m3u8
-ViasatHistory,http://94.156.33.91/ViasatHistory-Romania/index.m3u8
-
-蒙古,#genre#
-亚太第一卫视,http://110.19.106.198:9981/stream/channelid/999152661?ticket=B1BCB80234BFA8C75584A88C1E29CA0CF7745FC4&profile=pass
-CCTV13,http://110.19.106.198:9981/stream/channelid/2015043630?ticket=5640BEAFAC83743561B0AB0F3D4FE030E7EE9FF6&profile=pass
-TV9,http://110.19.106.198:9981/stream/channelid/483196788?ticket=
-NTV,http://110.19.106.198:9981/stream/channelid/147726413?ticket=
-MNB MM,http://110.19.106.198:9981/stream/channelid/1329054133?ticket=
-MNB,http://110.19.106.198:9981/stream/channelid/1665103169?ticket=
-Angel TV,http://110.19.106.198:9981/stream/channelid/283509486?ticket=
 
 美国,#genre#
 红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
