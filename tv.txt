@@ -1,7 +1,7 @@
 
 
 
-联通电信新加坡,#genre#
+联通电信新坡,#genre#
 Mediacorp 5,mitv://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
 Mediacorp 8,mitv://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
 Suria,mitv://generationnexxxt.com:19806/9ea5cf9604c545c88d5a634f5450204b
@@ -13,7 +13,7 @@ Fight Sports,mitv://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
 Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
 Mediacorp U(B),mitv://generationnexxxt.com:19806/bcf807b5e6e549b4aa970c8f1c160a5b
 Mediacorp 8(B),mitv://generationnexxxt.com:19806/009ed3c76b6e4a0cb514213b944e3b1b
-联通电信马来西亚,#genre#
+联通电信马来,#genre#
 beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
 TV1,mitv://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,mitv://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
@@ -574,7 +574,7 @@ AWE,http://43.138.170.29:35455/yy/1355285129
 
 
 
-演唱会频道,#genre#
+演唱音乐频道,#genre#
 许巍-蓝莲花(演唱会),http://em.21dtv.com/songs/60026063.mkv
 孙楠+韩红-美丽的神话,http://em.21dtv.com/songs/60029223.mkv
 张国荣-热情的沙漠(演唱会),http://em.21dtv.com/songs/60036263.mkv
