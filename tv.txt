@@ -2317,7 +2317,7 @@ wugltest,https://www.goodiptv.club/douyu/1844872
 林间潜伏,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/922b142fef9443218be5eaf44df0b397/1200.m3u8
 棋逢对手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3d515f3011c64797ae15bf36c639cb49/1200.m3u8
 
-裸眼3D频道,#genre#
+裸眼看3D频道,#genre#
 物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
 电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
 木叶上忍的究极对决,https://vd4.bdstatic.com/mda-mahnrqxb6xvgzyte/sc/cae_h264_nowatermark/1610957664/mda-mahnrqxb6xvgzyte.mp4
@@ -2365,7 +2365,7 @@ MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7n
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 
-全网斗地主,#genre#
+全网络斗地主,#genre#
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
 JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -3297,7 +3297,7 @@ Sky Sports Mix,mitv://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6
 第四季第25集,https://play.hhuus.com/play/Rb4PA6xb/index.m3u8
 第四季第26集完结,https://play.hhuus.com/play/Ddwvo08b/index.m3u8
 
-音乐频道,#genre#
+全网音乐频道,#genre#
 谭咏麟/关淑怡-明天你是否依然爱我,http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
 凤凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
 凤凰传奇-荷塘月色,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1565837&response=res&format=mp4&type=convert_url
@@ -4298,7 +4298,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 黄金七令之罗刹风云,https://yzzy.play-cdn20.com/20231115/5218_93b748ea/2000k/hls/index.m3u8
 黄金七令之罗刹风云,https://yzzy.play-cdn20.com/20231115/5218_93b748ea/index.m3u8
 
-经典电视剧,#genre#
+经典电视在线,#genre#
 狂飙01,https://p3-sign.douyinpic.com/obj/tos-cn-v-f17943/1004104b1cb44ebb86d41d36cded7134?filename=1.mp4&x-expires=1990965600&x-signature=rkNwnTHL%2FWG5t5y0NHV4u0MbsJI%3D
 狂飙02,https://p3-sign.douyinpic.com/obj/tos-cn-v-f17943/02c923a1b4534059a381b95639bfd677?filename=1.mp4&x-expires=1990965600&x-signature=EhDaC8GRTOmYxp5USNaur2Ma%2FXA%3D
 狂飙03,https://p3-sign.douyinpic.com/obj/tos-cn-v-f17943/8413c6146a4b43bb9aa60dbcf280e84f?filename=1.mp4&x-expires=1990965600&x-signature=jSpzp9WR%2FJdS6sFvQNyrqp8M42c%3D
@@ -4660,7 +4660,7 @@ SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
 JTBC GOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
 
 
-联通电信英国频道,#genre#
+电信英国频道,#genre#
 BBC World,http://45.228.232.219:16000/play/a0m9/index.m3u8
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 BBCNEWS,http://203.80.165.14/stream/channelid/576922833?profile=pass
@@ -4691,55 +4691,7 @@ BBC FOUR,http://81.137.213.119:4200/bysid/4544
 CBeebies,http://81.137.213.119:4200/bysid/4672
 BBC Parliament,http://81.137.213.119:4200/bysid/4736
 
-联通电信俄罗斯,#genre#
-IGITV,http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-Redcams,https://camcity.redcom.ru/Redcams/index.m3u8
-1TV Crimea,http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-3ABN,https://hls.tv.3angels.ru/stream/HQ.m3u8
-Мир,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-Мир 24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-Суббота orig,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/9103/index.m3u8
-req,https://streaming101.goodstream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
-Detskiy-,http://194.26.229.209/Detskiy-/index.m3u8?token=klimedia.space:Z2pzbGdoYThnYWdsczpnanNsZ2hhOGdhZ2xz
-Приключения ,http://cdn.klimedia.space/lb/_Teletr/index.m3u8?token=klimedia.space:a2RzYWdmeTlhNjprZHNhZ2Z5OWE2
-Русская Комедия,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/733/index.m3u8
-Русская Комедия,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/733/index.m3u8
-MM Honey ,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/13026/index.m3u8 
-БелРос,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-Вместе-РФ ,http://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/index.m3u8
-Енисей,http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-КТК,http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-РБК ТВ,http://92.50.128.180/utv/1358/index.m3u8
-К?НО ТV VHS,https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
-ВИДЕОКАССЕТА,https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
-МУЛЬТИМАНИЯ,https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
-Cartoon Network,http://89.254.128.5:22280/cartoon_network/video.m3u8
-1+2,http://89.254.128.5:22280/1_2/mono.m3u8
-Duo7  EE,http://89.254.128.5:22280/duo7_hd/index.m3u8
-8 канал  UA,http://89.254.128.5:22280/8tv_hd/index.m3u8
-Тайна,https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-Звезда,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-8 канал,http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-86 канал,https://sitv.ru/hls/s861024.m3u8
-M4T4,http://bl.uma.media/live/126836/HLS/317848_3/2/1/playlist.m3u8
-Аист ТВ,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-Астрахань 24,http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-C MORE FIRST  SE,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/RZUAWTNHX5DKXU/12087/index.m3u8
-?нтер,http://lb.wisp.cat/lb0/INTER/video.m3u8?token=ssx4VYH
-Кулинар ТВ,http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-RUSSISCHER JAHRMARKT,https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-МТВ (Волгоград),http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-СТБ,https://vmesterf.bonus-tv.ru/cdn/vmesterf/playlist.m3u8
-Fashion TV,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-Кино 1 International,https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
-Малдер TV ХИТ,https://hls.goodgame.ru/hls/153640.m3u8
-Akudji,https://hls.goodgame.ru/hls/5346.m3u8
-FILM TV,http://hls.goodgame.ru/hls/163253.m3u8
-Series TV,http://hls.goodgame.ru/hls/186021.m3u8
-Cinema Classic TV,http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-KION Хит ,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/20211/index.m3u8
+
 
 
 联通电信泰国,#genre#
@@ -4869,7 +4821,7 @@ PNN,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 TVK,http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
 Sea TV,http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
 
-联通电信北美频道,#genre#
+电信北美频道,#genre#
 ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
 600TV,mitv://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
 CBSN,mitv://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
@@ -4890,7 +4842,7 @@ The Weather Channel,mitv://generationnexxxt.com:19806/65792289000516983171ebcb68
 KOMO 4 TV,mitv://generationnexxxt.com:19806/65791ef700074fd53163fa0823ae64b8
 
 
-印度,#genre#
+电信印度频道,#genre#
 ZEE NEWS,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 Pictures ,https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 Star  Gold Trills,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:7b:e6:05&stream=155996&extension=m3u8&play_token=3S9Q0CWILY
@@ -5040,7 +4992,7 @@ sbc,https://cllive.itworkscdn.net/sbclive/token=nva=1674334306~dirs=1~hash=0d2a6
 dmc,https://iptv.ipslow.com/tv182_www.elahmad.com_dmc/tracks-v1a1/mono.m3u8?token=e37998d8dee0ec179fb91c5ec322d1e45b9b4ae8-5a3189e566c112e7a266a9b915d65341-1674331016-1674320216
 dubai,http://www.elahmad.com/tv/m3u8/dubai_tv.m3u8?id=dubai_tv
 
-越南,#genre#
+电信越南频道,#genre#
 TRT,https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 TVB Vietnam,https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 VTV1 ,http://4ksuper.live:80/Patricia/Patricia123/926772
@@ -5139,7 +5091,7 @@ True4U,http://183.89.246.119:8010/play/a00d/index.m3u8
 Workpoint TV,http://183.89.246.119:8010/play/a00c/index.m3u8
 
 
-美国,#genre#
+电信美国频道,#genre#
 红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
 NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
 NASA,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1610
