@@ -1,4 +1,4 @@
-#EXTM3U
+Singapore Radio
 #EXTINF:-1 group-title="#EXTM3U",CLASS95
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95.mp3
 #EXTINF:-1 group-title="#EXTM3U",LOVE972
