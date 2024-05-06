@@ -3,7 +3,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Singapore-Radio📻",CLASS95
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95.mp3
-#EXTINF:-1 group-title="Singapor-Radio📻",LOVE972
+#EXTINF:-1 group-title="Singapore-Radio📻",LOVE972
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM.mp3
 #EXTINF:-1 group-title="Singapore-Radio📻",YES933
 https://playerservices.streamtheworld.com/api/livestream-redirect/YES933.mp3
