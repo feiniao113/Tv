@@ -17,3 +17,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
 #EXTINF:-1 group-title="Singapore-Radio📻",UFM_1003
 https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003.mp3
+
+
+#EXTINF:-1 group-title="音乐广播",CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+
+
+#EXTINF:-1 group-title="音乐广播",CNR经典音乐广播
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
