@@ -17,6 +17,25 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
 #EXTINF:-1 group-title="Singapore-Radio📻",UFM_1003
 https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003.mp3
-
-#EXTINF:-1 group-title="音乐广播",CNR经典音乐广播
-http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 group-title="Singapore-Radio📻",KISS_92
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92.mp3
+#EXTINF:-1 group-title="Singapore-Radio📻",ONE_FM_913
+https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913.mp3
+#EXTINF:-1 group-title="Singapore-Radio📻",SYMPHONY924
+https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924.mp3
+#EXTINF:-1 group-title="Singapore-Radio📻",WARNA942FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM.mp3
+#EXTINF:-1 group-title="Singapore-Radio📻",987FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FM.mp3
+#EXTINF:-1 group-title="Singapore-Radio📻",MONEY_893
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.mp3
+#EXTINF:-1 group-title="Singapore-Radio📻",938NOW
+https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW.mp3
+#EXTINF:-1 group-title="Singapore-Radio📻",HAO_963
+https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
+#EXTINF:-1 group-title="Singapore-Radio📻",OLI968FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM.mp3 
+#EXTINF:-1 group-title="Singapore-Radio📻",RIA897FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM.mp3
+#EXTINF:-1 group-title="Singapore-Radio📻",Ys 995 FM
+http://stream.laut.fm/ys995fm
