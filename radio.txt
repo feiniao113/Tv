@@ -62,4 +62,20 @@ https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/好听1055.png" group-title="综合广播" radio="true",陕西青少广播·好听1055
 https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+#EXTINF:-1 group-title="综合广播",80后音悦台
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 group-title="综合广播",民谣音乐台
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 group-title="综合广播",天籁之音
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1 group-title="综合广播",天籁之音HiFi
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1 group-title="综合广播",天籁之音-国风
+http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+#EXTINF:-1 group-title="综合广播",天籁之音-经典
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+ 
+ 
+ 
+ 
 
