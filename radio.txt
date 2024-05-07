@@ -58,5 +58,8 @@ https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西新闻广播.png" group-title="综合广播" radio="true",陕西新闻广播
 https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西音乐广播.png" group-title="综合广播" radio="true",陕西音乐广播
+https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/好听1055.png" group-title="综合广播" radio="true",陕西青少广播·好听1055
+https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 
