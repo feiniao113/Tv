@@ -39,3 +39,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM.mp3
 #EXTINF:-1 group-title="Singapore-Radio📻",Ys 995 FM
 http://stream.laut.fm/ys995fm
+
+#EXTINF:-1 group-title="音乐广播📻",80s
+http://lhttp.qingting.fm/live/20207761/64k.mp3
+#EXTINF:-1 group-title="音乐广播📻",Germany 80s
+http://regiocast.streamabc.net/regc-80s80smv6632132-mp3-192-6159749
