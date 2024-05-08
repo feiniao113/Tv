@@ -39,7 +39,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM.mp3
 http://stream.laut.fm/ys995fm
 #EXTINF:-1 group-title="音乐广播",怀旧金曲
 https://lhttp.qingting.fm/live/5022038/64k.mp3
-#EXTINF:-1 group-title="音乐广播",80s
+#EXTINF:-1 group-title="音乐广播",80后音乐
 http://lhttp.qingting.fm/live/20207761/64k.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
