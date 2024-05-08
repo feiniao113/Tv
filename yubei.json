@@ -1,0 +1,32 @@
+{
+    "urls": [
+          {
+            "url":"https://yydf.540734621.xyz/QQ/yydf.json",
+            "name": "业余线路"
+        },
+          {
+            "url":"https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子",
+            "name": "夜猫子线路"
+        }, 
+          {
+            "url":"http://sinopacifichk.com/box/56.txt",
+            "name": "太平洋线路"
+        },
+          {
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "高天流云"
+        }, 	
+          {
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "name": "二哈线路"
+        },
+          {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技线路"
+        },
+          {
+            "url":"http://www.wya6.cn/tv/yc.json",
+            "name": "无意线路"
+        }		
+      ]  
+}
