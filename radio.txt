@@ -93,7 +93,10 @@ https://desireevanessen.blogspot.com/2024/03/ch5.html
 #EXTINF:0 group-title="新加坡电视",CNA频道
 https://desireevanessen.blogspot.com/2024/03/cna.html
  
- 
+#EXTINF:0,https://desireevanessen.blogspot.com/2024/03/ch8.html
+#EXTINF:0,https://desireevanessen.blogspot.com/2024/03/chu.html
+#EXTINF:0,https://desireevanessen.blogspot.com/2024/03/ch5.html
+#EXTINF:0,https://desireevanessen.blogspot.com/2024/03/cna.html
  
  
 
