@@ -95,7 +95,7 @@ https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="新加坡电视",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 group-title="新加坡电视",CH8
 https://hls.ulivetv.net/v/live/d83bbr3y0v0g.m3u8?stream_id=d83bbr3y0v0g&timestamp=1715231284&rand=tID22T4WlM&uuid=SUmGMiaxf4&sign=1b7d87994a17ded13ee7daeaab92d4ee&stream_id=d83bbr3y0v0g&from=1323&key=jgir034VFoieq
