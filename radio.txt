@@ -100,3 +100,5 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:0 group-title="新加坡电视",8
+https://cdn.ggapk.net/live/tv?id=4e240VmLV6qoC9OvubBPlbUgl5FQSCe54VK1lAXehi6vrP_cNVt037oq_t5aQrR5dWsJHXUMdqvmvlyLa6j3CLU6bVJK1FmZQ92D9yiBMIgXdmM8d92e--9mrRQD7_IIGkAdYav7cC4KiltTXcBd_XARusfF2ltu6LMq640UxpmRSZkCZ-jJ_aFKcyzHlru0TQpNcmjhl8YrxFVX0p5hbS2SsdB0IDJDsXj6jW9vwXuQ5S2zfqHWPDD_PLwhyNTE5UsYt7JYxVe8Kwz6dNtHCaCdIEl9BDbGcP4FovHcBPRcXex5TxWQez_q3BupghBLgA1DEu7b7ZGdAaiIQSn-qCnmFgPbKfs2Ps8mPhnmDw0hce4OrV7rizcEFhwPb9GHLDxyMpBm-RTuJ9yNDsof8Ez8psRpTy8ePHnEqB14lBBMf17ih2rkds2iQyIK3MbCf1yZT_VJ48yduKgNt9qILKT3ev7AsYoDCw_qOd809ajAerxlafQrVupQ-GYlGhs0JydZdhDLCf_kYoUB7nkj9X-NY9-Wxi4jXGchvkiibyIlG_IL2qHz_uPX-p07HuceMzCMB4-WeNci2MzoLA3i8s-t8Yg9Og&idp=5788QBpnAlAAgguIRHTG0bYvPcIJcIbNLxrR0Bg4JwnaK6nI
