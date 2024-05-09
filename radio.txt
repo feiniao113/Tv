@@ -100,7 +100,9 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:0 group-title="新加坡电视",8
-https://cdn.ggapk.net/live/tv?id=4e240VmLV6qoC9OvubBPlbUgl5FQSCe54VK1lAXehi6vrP_cNVt037oq_t5aQrR5dWsJHXUMdqvmvlyLa6j3CLU6bVJK1FmZQ92D9yiBMIgXdmM8d92e--9mrRQD7_IIGkAdYav7cC4KiltTXcBd_XARusfF2ltu6LMq640UxpmRSZkCZ-jJ_aFKcyzHlru0TQpNcmjhl8YrxFVX0p5hbS2SsdB0IDJDsXj6jW9vwXuQ5S2zfqHWPDD_PLwhyNTE5UsYt7JYxVe8Kwz6dNtHCaCdIEl9BDbGcP4FovHcBPRcXex5TxWQez_q3BupghBLgA1DEu7b7ZGdAaiIQSn-qCnmFgPbKfs2Ps8mPhnmDw0hce4OrV7rizcEFhwPb9GHLDxyMpBm-RTuJ9yNDsof8Ez8psRpTy8ePHnEqB14lBBMf17ih2rkds2iQyIK3MbCf1yZT_VJ48yduKgNt9qILKT3ev7AsYoDCw_qOd809ajAerxlafQrVupQ-GYlGhs0JydZdhDLCf_kYoUB7nkj9X-NY9-Wxi4jXGchvkiibyIlG_IL2qHz_uPX-p07HuceMzCMB4-WeNci2MzoLA3i8s-t8Yg9Og&idp=5788QBpnAlAAgguIRHTG0bYvPcIJcIbNLxrR0Bg4JwnaK6nI
-#EXTINF:0 group-title="新加坡电视",88
+#EXTINF:0 group-title="新加坡电视",CH8
 https://hls.ulivetv.net/v/live/d83bbr3y0v0g.m3u8?stream_id=d83bbr3y0v0g&timestamp=1715231284&rand=tID22T4WlM&uuid=SUmGMiaxf4&sign=1b7d87994a17ded13ee7daeaab92d4ee&stream_id=d83bbr3y0v0g&from=1323&key=jgir034VFoieq
+#EXTINF:0 group-title="新加坡电视",CHU
+https://hls.ulivetv.net/v/live/d83bc2thdzpc.m3u8?stream_id=d83bc2thdzpc&timestamp=1715231839&rand=bHwjpEnJFA&uuid=kPjDoEI1Kb&sign=e4236d933eabbc0fa38b3854e627c2d7&from=web&stream_id=d83bc2thdzpc
+#EXTINF:0 group-title="新加坡电视",CH5
+https://hls.ulivetv.net/v/live/d83bbbjbt98g.m3u8?stream_id=d83bbbjbt98g&timestamp=1715231602&rand=J27nEoXSnu&uuid=GYX0xhfGA3&sign=4a6a28e92cd744d115b51cf5042693d9&stream_id=d83bbbjbt98g&from=1323&key=jgir034VFoieq
