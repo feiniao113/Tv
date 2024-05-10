@@ -97,7 +97,8 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 group-title="新加坡电视",CH8
 https://hls.ulivetv.net/v/live/d83bbr3y0v0g.m3u8?stream_id=d83bbr3y0v0g&timestamp=1715231284&rand=tID22T4WlM&uuid=SUmGMiaxf4&sign=1b7d87994a17ded13ee7daeaab92d4ee&stream_id=d83bbr3y0v0g&from=1323&key=jgir034VFoieq
-
+#EXTINF:0 group-title="新加坡电视",CHU
+https://cdn.ggapk.net/live/tv?id=ce289tZWbRMmUO7JxvN5CK5kgHSoeV8jue0ztnF8WSPNTakF0Aj3mWmACIQzSh0OW18Xwij5rRIMTWRcBEbE2HNk6PQOocUKTFeZHjzzSpwI7LvZh6GEX8aUSHE6WWIGCcAA-z3bLmtKyw-4E-pqUwzwxcjEhCioN0MZn0heC-hqaZKYwG_14by8zwoMuQVSvcYSI18kXrBwHa4UhasC_1HnPaN5-UedGsKkYqjjvZcoqLkUO8hkouK1ULMbTuExj_YuuKJnUuvEu8lxlwcKXImu6qsjk91MbfdFPvrTiXG0piKP85ZABH7OmLX5OYvIeUNNj-jnoSkJdzI7d1UvVKfxk6ZJYmuGHQMJeAVeAXDf2nikMZv3v07iS56o-W9MIavs1Q1dOM3xSntah6EU-OvLPCBjfBmhIaxeZInbqV9vaGzYLhgQ2Zx0hxALbbbJmfUVgX3T1pnY_I6IwmNEuo41vc4tO81FFTEofUZuw1u_QsASuPUoq3EcrOIoEU97nO62iq42v0WwcgmCyc3k7nMfUTX7_1rS6cJbozTe5F0_X7Tjxdl9u-Ab&idp=bfd4WKo9g8q_zsEUmzef2FWuN9yWD6UXu8xGizV5sTsN3fSA1RStkio
 #EXTINF:0 group-title="央视频道",CCTV1
 http://125.210.150.58:9090/live/hzgq-cctv1gq-h264.m3u8
 #EXTINF:0 group-title="央视频道",CCTV2
