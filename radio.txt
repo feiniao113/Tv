@@ -89,9 +89,6 @@ https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 
 
- 
-
-
 #EXTINF:0 group-title="新加坡电视",CH8
 https://hls.ulivetv.net/v/live/d83bbr3y0v0g.m3u8?stream_id=d83bbr3y0v0g&timestamp=1715231284&rand=tID22T4WlM&uuid=SUmGMiaxf4&sign=1b7d87994a17ded13ee7daeaab92d4ee&stream_id=d83bbr3y0v0g&from=1323&key=jgir034VFoieq
 
@@ -99,3 +96,72 @@ https://hls.ulivetv.net/v/live/d83bbr3y0v0g.m3u8?stream_id=d83bbr3y0v0g&timestam
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="新加坡电视",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:0 group-title="央视频道",CCTV1
+https://node3.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:0 group-title="央视频道",CCTV1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:0 group-title="央视频道",CCTV2
+https://node3.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:0 group-title="央视频道",CCTV2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:0 group-title="央视频道",CCTV3
+http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
+#EXTINF:0 group-title="央视频道",CCTV4
+http://tvbox.netsite.cc/proxy/2065759974/2065759974.m3u8
+#EXTINF:0 group-title="央视频道",CCTV4
+http://udnhls.skilldns.com/cctv4-cn.m3u8
+#EXTINF:0 group-title="央视频道",CCTV5
+http://tvbox.netsite.cc/proxy/1484254751/1484254751.m3u8
+#EXTINF:0 group-title="央视频道",CCTV5+
+http://tvbox.netsite.cc/proxy/1319414029/1319414029.m3u8
+#EXTINF:0 group-title="央视频道",CCTV6
+https://h5cdn404.kylintv.tv/live/cctv6hd_iphone.m3u8
+#EXTINF:0 group-title="央视频道",CCTV7
+http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
+#EXTINF:0 group-title="央视频道",CCTV8
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:0 group-title="央视频道",CCTV9
+http://tvbox.netsite.cc/proxy/41408178/41408178.m3u8
+#EXTINF:0 group-title="央视频道",CCTV10
+http://tvbox.netsite.cc/proxy/358752297/358752297.m3u8
+#EXTINF:0 group-title="央视频道",CCTV11
+http://tvbox.netsite.cc/proxy/1384058039/1384058039.m3u8
+#EXTINF:0 group-title="央视频道",CCTV12
+http://tvbox.netsite.cc/proxy/1168098921/1168098921.m3u8
+#EXTINF:0 group-title="央视频道",CCTV13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:0 group-title="央视频道",CCTV13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mbd.m3u8?auth_key=1715458352-0-1e3afcd64eb94b1bbad1e6b834dc3b84-bf4c0d245d12fff0813f3323b1363d54&yid=1e3afcd64eb94b1bbad1e6b834dc3b84
+#EXTINF:0 group-title="央视频道",CCTV14
+http://tvbox.netsite.cc/proxy/1977445545/1977445545.m3u8
+#EXTINF:0 group-title="央视频道",CCTV15
+http://tvbox.netsite.cc/proxy/2128760541/2128760541.m3u8
+
+#EXTINF:0 group-title="央视频道",CCTV17
+http://tvbox.netsite.cc/proxy/2004643460/2004643460.m3u8
+
+
+#EXTINF:0 group-title="港台频道",台视新闻台
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:0 group-title="港台频道",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:0 group-title="港台频道",凤凰卫视
+http://210.210.155.37/session/ad4cc1bc-0ea1-11ef-9cc5-bef0b9a38ac9/uq2663/h/h157/S4/mnf.m3u8
+#EXTINF:0 group-title="港台频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:0 group-title="港台频道",TVB星河台
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+
+#EXTINF:0 group-title="卫视频道",陕西卫视
+http://stream.snrtv.com/sxbc-star-EFLOTW.m3u8
+#EXTINF:0 group-title="卫视频道",湖南卫视
+https://live.ldntv.cn/hnws/playlist.m3u8?_upt=9b5ded201715411961
+#EXTINF:0 group-title="卫视频道",西安影视
+https://stream.xiancity.cn/live/4/index.m3u8
+#EXTINF:0 group-title="卫视频道",宝鸡综合
+http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=
+#EXTINF:0 group-title="卫视频道",西安新闻
+https://stream.xiancity.cn/live/1/index.m3u8
+
