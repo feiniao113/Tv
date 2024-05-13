@@ -149,6 +149,8 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:0 group-title="港台频道",凤凰卫视
 http://210.210.155.37/session/ad4cc1bc-0ea1-11ef-9cc5-bef0b9a38ac9/uq2663/h/h157/S4/mnf.m3u8
+http://210.210.155.37/session/950a52f0-10f3-11ef-9d26-9e05a3fb2dac/uq2663/h/h157/index2.m3u8
+http://210.210.155.37/session/c7c2572e-10f3-11ef-82b6-86c4b99fb11d/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
 #EXTINF:0 group-title="港台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 group-title="港台频道",TVB星河台
@@ -159,12 +161,19 @@ https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3
 http://210.210.155.35/session/59815838-10f2-11ef-bf0a-a137bf0e73f8/dr9445/h/h14/01.m3u8
 
 
-#EXTINF:0 group-title="卫视频道",陕西卫视
-http://stream.snrtv.com/sxbc-star-EFLOTW.m3u8
+
+
+
 #EXTINF:0 group-title="卫视频道",湖南卫视
 https://live.ldntv.cn/hnws/playlist.m3u8?_upt=9b5ded201715411961
 #EXTINF:0 group-title="卫视频道",湖南卫视
 http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8
+https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
+#EXTINF:0 group-title="卫视频道",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+http://tvbox.netsite.cc/proxy/1076829733/1076829733.m3u8
+#EXTINF:0 group-title="卫视频道",陕西卫视
+http://stream.snrtv.com/sxbc-star-EFLOTW.m3u8
 #EXTINF:0 group-title="卫视频道",西安影视
 https://stream.xiancity.cn/live/4/index.m3u8
 #EXTINF:0 group-title="卫视频道",宝鸡综合
