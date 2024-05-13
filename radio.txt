@@ -164,8 +164,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 group-title="港台频道",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 
-#EXTINF:0 group-title="卫视频道",湖南卫视
-https://live.ldntv.cn/hnws/playlist.m3u8?_upt=9b5ded201715411961
+
 #EXTINF:0 group-title="卫视频道",湖南卫视
 http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8
 https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
