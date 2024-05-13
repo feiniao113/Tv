@@ -153,6 +153,8 @@ http://210.210.155.37/session/ad4cc1bc-0ea1-11ef-9cc5-bef0b9a38ac9/uq2663/h/h157
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 group-title="港台频道",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:0 group-title="港台频道",凤凰电影
+https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
 
 #EXTINF:0 group-title="卫视频道",陕西卫视
 http://stream.snrtv.com/sxbc-star-EFLOTW.m3u8
