@@ -140,8 +140,7 @@ http://tvbox.netsite.cc/proxy/1168098921/1168098921.m3u8
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:0 group-title="央视频道",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:0 group-title="央视频道",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mbd.m3u8?auth_key=1715458352-0-1e3afcd64eb94b1bbad1e6b834dc3b84-bf4c0d245d12fff0813f3323b1363d54&yid=1e3afcd64eb94b1bbad1e6b834dc3b84
+
 #EXTINF:0 group-title="央视频道",CCTV14
 http://tvbox.netsite.cc/proxy/1977445545/1977445545.m3u8
 #EXTINF:0 group-title="央视频道",CCTV15
