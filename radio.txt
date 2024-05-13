@@ -186,7 +186,8 @@ https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://tvbox.netsite.cc/proxy/1076829733/1076829733.m3u8
 #EXTINF:0 group-title="卫视频道",陕西卫视
-http://stream.snrtv.com/sxbc-star-EFLOTW.m3u8
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
+http://tvbox.netsite.cc/proxy/917851306/917851306.m3u8
 #EXTINF:0 group-title="卫视频道",西安影视
 https://stream.xiancity.cn/live/4/index.m3u8
 #EXTINF:0 group-title="卫视频道",宝鸡综合
