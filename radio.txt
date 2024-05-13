@@ -163,26 +163,6 @@ http://210.210.155.37/session/c7c2572e-10f3-11ef-82b6-86c4b99fb11d/uq2663/h/h157
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 group-title="港台频道",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:0 group-title="港台频道",凤凰电影
-https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
-#EXTINF:0 group-title="港台频道",天映经典
-http://210.210.155.35/session/59815838-10f2-11ef-bf0a-a137bf0e73f8/dr9445/h/h14/01.m3u8
-#EXTINF:0 group-title="港台频道",CHC高清电影
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
-#EXTINF:0 group-title="港台频道",CHC高清电影
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8
-#EXTINF:0 group-title="港台频道",环球电视
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-http://live.cgtn.com/500/prog_index.m3u8?$1M720x576
-#EXTINF:0 group-title="港台频道",三立INEWS
-https://z88.ubtvfans.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
-#EXTINF:0 group-title="港台频道",TVB精彩
-https://z88.ubtvfans.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a9/index.m3u8
-#EXTINF:0 group-title="港台频道",TVB精彩
-https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
-#EXTINF:0 group-title="港台频道",壹新闻
-https://z88.ubtvfans.com/live/rx3/494/34a10e399d9b6f1cbfc5de4950430a02/index.m3u8
-
 
 #EXTINF:0 group-title="卫视频道",湖南卫视
 https://live.ldntv.cn/hnws/playlist.m3u8?_upt=9b5ded201715411961
