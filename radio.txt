@@ -159,10 +159,12 @@ https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
 #EXTINF:0 group-title="港台频道",天映经典
 http://210.210.155.35/session/59815838-10f2-11ef-bf0a-a137bf0e73f8/dr9445/h/h14/01.m3u8
-
-
-
-
+#EXTINF:0 group-title="港台频道",CHC高清电影
+http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8
+#EXTINF:0 group-title="港台频道",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+http://live.cgtn.com/500/prog_index.m3u8?$1M720x576
 
 #EXTINF:0 group-title="卫视频道",湖南卫视
 https://live.ldntv.cn/hnws/playlist.m3u8?_upt=9b5ded201715411961
