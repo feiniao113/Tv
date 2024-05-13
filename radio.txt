@@ -192,6 +192,8 @@ http://tvbox.netsite.cc/proxy/917851306/917851306.m3u8
 https://stream.xiancity.cn/live/4/index.m3u8
 #EXTINF:0 group-title="卫视频道",宝鸡综合
 http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=
+#EXTINF:0 group-title="卫视频道",眉县新闻
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0 group-title="卫视频道",西安新闻
 https://stream.xiancity.cn/live/1/index.m3u8
 http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=855832649489747@6346@61F67E9317723A9A2760B896A213349B;{User-Agent@0151}
