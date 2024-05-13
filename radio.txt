@@ -124,6 +124,8 @@ https://h5cdn404.kylintv.tv/live/cctv6hd_iphone.m3u8
 http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
 #EXTINF:0 group-title="央视频道",CCTV8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41142/2300.m3u8
+
 #EXTINF:0 group-title="央视频道",CCTV9
 http://tvbox.netsite.cc/proxy/41408178/41408178.m3u8
 #EXTINF:0 group-title="央视频道",CCTV10
