@@ -45,17 +45,17 @@ http://lhttp.qingting.fm/live/20207761/64k.mp3
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 group-title="音乐广播",80后音悦台
+#EXTINF:-1 group-title="音乐广播",80后音悦
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播",民谣音乐台
+#EXTINF:-1 group-title="音乐广播",民谣音乐
 http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
 #EXTINF:-1 group-title="音乐广播",天籁之音
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播",天籁之音HiFi
+#EXTINF:-1 group-title="音乐广播",天籁HiFi
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播",天籁之音-国风
+#EXTINF:-1 group-title="音乐广播",天籁国风
 http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
-#EXTINF:-1 group-title="音乐广播",天籁之音-经典
+#EXTINF:-1 group-title="音乐广播",天籁经典
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
 #EXTINF:-1 group-title="音乐广播",中文流行
 http://cpop.bigbradio.net/s
