@@ -163,6 +163,8 @@ http://210.210.155.35/session/59815838-10f2-11ef-bf0a-a137bf0e73f8/dr9445/h/h14/
 http://stream.snrtv.com/sxbc-star-EFLOTW.m3u8
 #EXTINF:0 group-title="卫视频道",湖南卫视
 https://live.ldntv.cn/hnws/playlist.m3u8?_upt=9b5ded201715411961
+#EXTINF:0 group-title="卫视频道",湖南卫视
+http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8
 #EXTINF:0 group-title="卫视频道",西安影视
 https://stream.xiancity.cn/live/4/index.m3u8
 #EXTINF:0 group-title="卫视频道",宝鸡综合
