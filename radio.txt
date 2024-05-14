@@ -185,8 +185,7 @@ http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=85583264948974
 https://vd4.bdstatic.com/mda-paq1rstx5psmnh4d/sc/cae_h264/1674629486930515540/mda-paq1rstx5psmnh4d.mp4
 #EXTINF:0 group-title="经典MV",蔡依林经典MV
 https://vd4.bdstatic.com/mda-pac79inw7bdc065u/sc/cae_h264/1673588623596170946/mda-pac79inw7bdc065u.mp4
-#EXTINF:0 group-title="经典MV",王杰-情愿不自由
-https://vdept3.bdstatic.com/mda-mfh4qyp1ifzct0aj/sc/cae_h264/1623987796224664139/mda-mfh4qyp1ifzct0aj.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1715664426-0-0-3dfb1175ad13351e085088f773903edd&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=1626186954&vid=4129498880690249016&klogid=1626186954&abtest=
+
 #EXTINF:0 group-title="经典MV",王杰-安妮
 https://vd3.bdstatic.com/mda-njqkzzvubt8xsfeq/sc/cae_h264/1666744554797687070/mda-njqkzzvubt8xsfeq.mp4
 #EXTINF:0 group-title="经典MV",王杰-英雄泪
