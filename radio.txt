@@ -135,8 +135,10 @@ http://tvbox.netsite.cc/proxy/1384058039/1384058039.m3u8
 http://tvbox.netsite.cc/proxy/1168098921/1168098921.m3u8
 #EXTINF:0 group-title="央视频道",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-
-
+#EXTINF:0 group-title="央视频道",CCTV13
+https://p.iptv200.com/v/ysp.m3u8?token=%2F6GXS%2Fsc5Ls16kPRDFidj85A&id=cctv13
+#EXTINF:0 group-title="央视频道",CCTV13
+https://p.iptv200.com/v/ysp.m3u8?token=%2F%2FWUGPAY57w16kPRDFidj8ZA&id=cctv13
 #EXTINF:0 group-title="央视频道",CCTV14
 http://tvbox.netsite.cc/proxy/1977445545/1977445545.m3u8
 #EXTINF:0 group-title="央视频道",CCTV15
