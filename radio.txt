@@ -112,8 +112,6 @@ http://udnhls.skilldns.com/cctv4-cn.m3u8
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:0 group-title="央视频道",CCTV4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
-#EXTINF:0 group-title="央视频道",CCTV8K
-https://p.iptv200.com/v/ysp.m3u8?token=dl6tdBoUYP4%2FJ2Ez%2F1nlPNOT&id=cctv8k
 #EXTINF:0 group-title="央视频道",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:0 group-title="央视频道",CCTV5+
@@ -174,8 +172,6 @@ http://tvbox.netsite.cc/proxy/917851306/917851306.m3u8
 https://stream.xiancity.cn/live/4/index.m3u8
 #EXTINF:0 group-title="卫视频道",宝鸡综合
 http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=
-#EXTINF:0 group-title="卫视频道",眉县新闻
-http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0 group-title="卫视频道",西安新闻
 https://stream.xiancity.cn/live/1/index.m3u8
 #EXTINF:0 group-title="卫视频道",西安新闻
