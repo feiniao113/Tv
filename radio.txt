@@ -108,6 +108,8 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 http://tvbox.netsite.cc/proxy/2065759974/2065759974.m3u8
 #EXTINF:0 group-title="央视频道",CCTV4
 http://udnhls.skilldns.com/cctv4-cn.m3u8
+#EXTINF:0 group-title="央视频道",CCTV4
+https://m.youtube.com/watch?v=twhG7_jvA8g
 #EXTINF:0 group-title="央视频道",CCTV4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:0 group-title="央视频道",CCTV4K
