@@ -91,8 +91,8 @@ https://hls.ulivetv.net/v/live/d83bbr3y0v0g.m3u8?stream_id=d83bbr3y0v0g&timestam
 
 #EXTINF:0 group-title="新加坡电视",CH5
 https://bstvcdn.ballbar.net/Channel5_264/playlist-13.m3u8an?t=1716526547&token=cc7aa153614e6ce0e17331eac686715f
-
-
+#EXTINF:0 group-title="新加坡电视",8视界
+https://www.youtube.com/watch?v=RvSOIM620bA
 
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="新加坡电视",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
