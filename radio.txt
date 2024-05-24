@@ -279,3 +279,6 @@ https://www.youtube.com/watch?v=xL0ch83RAK8
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:0 group-title="油管音乐",放松音乐治愈心灵
 https://www.youtube.com/watch?v=0crvD3XrE4c
+
+#EXTINF:0 group-title="油管音乐",经典老歌
+https://m.youtube.com/watch?v=ekl2AWmdj6g
