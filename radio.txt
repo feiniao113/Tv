@@ -108,8 +108,7 @@ https://node3.olelive.com:6443/live/CCTV2HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 
 
-#EXTINF:0 group-title="央视频道",CCTV4
-http://tvbox.netsite.cc/proxy/2065759974/2065759974.m3u8
+
 #EXTINF:0 group-title="央视频道",CCTV4
 http://udnhls.skilldns.com/cctv4-cn.m3u8
 #EXTINF:0 group-title="央视频道",CCTV4
@@ -120,32 +119,18 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 #EXTINF:0 group-title="央视频道",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:0 group-title="央视频道",CCTV5+
-http://tvbox.netsite.cc/proxy/1319414029/1319414029.m3u8
+
 #EXTINF:0 group-title="央视频道",CCTV6
 https://h5cdn404.kylintv.tv/live/cctv6hd_iphone.m3u8
-#EXTINF:0 group-title="央视频道",CCTV7
-http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
+
 #EXTINF:0 group-title="央视频道",CCTV8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 
-#EXTINF:0 group-title="央视频道",CCTV9
-http://tvbox.netsite.cc/proxy/41408178/41408178.m3u8
-#EXTINF:0 group-title="央视频道",CCTV10
-http://tvbox.netsite.cc/proxy/358752297/358752297.m3u8
-#EXTINF:0 group-title="央视频道",CCTV11
-http://tvbox.netsite.cc/proxy/1384058039/1384058039.m3u8
-#EXTINF:0 group-title="央视频道",CCTV12
-http://tvbox.netsite.cc/proxy/1168098921/1168098921.m3u8
+
+
 #EXTINF:0 group-title="央视频道",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:0 group-title="央视频道",CCTV14
-http://tvbox.netsite.cc/proxy/1977445545/1977445545.m3u8
-#EXTINF:0 group-title="央视频道",CCTV15
-http://tvbox.netsite.cc/proxy/2128760541/2128760541.m3u8
 
-#EXTINF:0 group-title="央视频道",CCTV17
-http://tvbox.netsite.cc/proxy/2004643460/2004643460.m3u8
 
 
 #EXTINF:0 group-title="港台频道",台视新闻台
