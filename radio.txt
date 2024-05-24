@@ -281,5 +281,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=0crvD3XrE4c
 #EXTINF:0 group-title="油管直播",抖音神曲2024
 https://www.youtube.com/watch?v=_U7eiL5Vb6I
+#EXTINF:0 group-title="油管直播",8090年代经典老歌https://m.youtube.com/watch?v=2wxd9LGWmhE&pp=ygUM57uP5YW46Z-z5LmQ
+#EXTINF:0 group-title="油管直播",情怀经典
+https://m.youtube.com/watch?v=xejFMQh9zrA
 
 
