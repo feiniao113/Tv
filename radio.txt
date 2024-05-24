@@ -88,16 +88,16 @@ https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 
 #EXTINF:0 group-title="新加坡电视",CH8
 https://hls.ulivetv.net/v/live/d83bbr3y0v0g.m3u8?stream_id=d83bbr3y0v0g&timestamp=1715231284&rand=tID22T4WlM&uuid=SUmGMiaxf4&sign=1b7d87994a17ded13ee7daeaab92d4ee&stream_id=d83bbr3y0v0g&from=1323&key=jgir034VFoieq
-
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="新加坡电视",CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 group-title="新加坡电视",CH5
 https://bstvcdn.ballbar.net/Channel5_264/playlist-13.m3u8an?t=1716526547&token=cc7aa153614e6ce0e17331eac686715f
 #EXTINF:0 group-title="新加坡电视",8视界
 https://www.youtube.com/watch?v=RvSOIM620bA
-
+#EXTINF:0 group-title="新加坡电视",經典老歌
+https://m.youtube.com/watch?v=mPn42U-HO9U&pp=ygUM57uP5YW46Z-z5LmQ
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="新加坡电视",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="新加坡电视",CNA新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:0 group-title="央视频道",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD/hls.m3u8
