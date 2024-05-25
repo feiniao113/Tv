@@ -273,3 +273,5 @@ https://www.youtube.com/watch?v=bhLF2vbdTMQ
 https://www.youtube.com/watch?v=x5Xk31xNp4E
 #EXTINF:0 group-title="油管音乐",张宇合集
 https://www.youtube.com/watch?v=Bku0rnmYf0o
+#EXTINF:0 group-title="油管音乐",王菲合集
+https://www.youtube.com/watch?v=iKHD93uuZT8
