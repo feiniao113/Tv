@@ -277,5 +277,7 @@ https://www.youtube.com/watch?v=Bku0rnmYf0o
 https://www.youtube.com/watch?v=iKHD93uuZT8
 #EXTINF:0 group-title="油管音乐",许茹芸合集
 https://www.youtube.com/watch?v=eWSli9dp-Ok
+#EXTINF:0 group-title="油管音乐",萧亚轩合集
+https://www.youtube.com/watch?v=aGdn5rRayas
 #EXTINF:0 group-title="油管音乐",郑智化合集
 https://www.youtube.com/watch?v=eXnugKgJKk0
