@@ -281,3 +281,5 @@ https://www.youtube.com/watch?v=eWSli9dp-Ok
 https://www.youtube.com/watch?v=aGdn5rRayas
 #EXTINF:0 group-title="油管音乐",郑智化合集
 https://www.youtube.com/watch?v=eXnugKgJKk0
+#EXTINF:0 group-title="油管音乐",老歌带DJ
+https://www.youtube.com/watch?v=3xxpQDqWuAM
