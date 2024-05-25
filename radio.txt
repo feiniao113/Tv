@@ -271,3 +271,5 @@ https://m.youtube.com/watch?v=ekl2AWmdj6g
 https://www.youtube.com/watch?v=bhLF2vbdTMQ
 #EXTINF:0 group-title="油管音乐",齐秦合集
 https://www.youtube.com/watch?v=x5Xk31xNp4E
+#EXTINF:0 group-title="油管音乐",张宇合集
+https://www.youtube.com/watch?v=Bku0rnmYf0o
