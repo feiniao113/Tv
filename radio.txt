@@ -267,7 +267,7 @@ https://www.youtube.com/watch?v=0crvD3XrE4c
 #EXTINF:0 group-title="油管音乐",经典老歌
 https://m.youtube.com/watch?v=ekl2AWmdj6g
 #EXTINF:0 group-title="油管音乐",经典老歌
-#EXTINF:0 group-title="油管音乐",王杰精选
+#EXTINF:0 group-title="油管音乐",王杰合集
 https://www.youtube.com/watch?v=bhLF2vbdTMQ
-
-
+#EXTINF:0 group-title="油管音乐",齐秦合集
+https://www.youtube.com/watch?v=x5Xk31xNp4E
