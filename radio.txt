@@ -202,44 +202,6 @@ https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
 https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
 #EXTINF:0 group-title="泥巴直播",CCTV16
 https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
-#EXTINF:0 group-title="泥巴直播",凤凰卫视
-https://cd05991.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",凤凰资讯
-https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",凤凰美洲
-https://cd05991.kylintv.tv/live/pxnaus_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",凤凰卫视香港
-https://cd05991.kylintv.tv/live/pxhkus_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",民视电视台
-https://cd05991.kylintv.tv/live/formosatv_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",华视电视台
-https://cd05991.kylintv.tv/live/ctshd_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",中天新闻台
-https://cd05991.kylintv.tv/live/cti_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",大爱电视台
-https://cd05991.kylintv.tv/live/daai_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",北美焦点新闻台
-https://cd05991.kylintv.tv/live/qljdhd_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",北京卫视
-https://h5cdn404.kylintv.tv/live/btvhd_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",东方卫视
-https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",浙江卫视
-https://h5cdn404.kylintv.tv/live/zhejtvhd_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",江苏卫视
-https://h5cdn404.kylintv.tv/live/jstvhd_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",美国中文电视
-https://h5cdn404.kylintv.tv/live/snvn_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",高清电影频道
-https://cd05991.kylintv.tv/live/chinamovie_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",大湾区卫视
-https://cd05991.kylintv.tv/live/tvs_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",海峡卫视
-https://cd05991.kylintv.tv/live/fjstv_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",昆仑剧场
-https://cd05991.kylintv.tv/live/kunlunhd_iphone.m3u8
-#EXTINF:0 group-title="泥巴直播",长江剧场
-https://cd05991.kylintv.tv/live/yangtse_iphone.m3u8
 
 
 #EXTINF:0 group-title="油管直播",CCTV4
