@@ -212,8 +212,7 @@ https://m.youtube.com/watch?v=HFib76ySpbU&pp=ygUS5Yek5Yew5Y2r6KeG55u05pKt
 https://m.youtube.com/watch?v=m_dhMSvUCIc&pp=ygUQdHZic-aWsOiBnuebtOaSrQ%3D%3D
 #EXTINF:0 group-title="油管直播",民視新聞
 https://m.youtube.com/watch?v=ylYJSBUgaMA&pp=ygUM5rCR6KeG5paw6Ze7
-#EXTINF:0 group-title="油管直播",中天新聞
-https://m.youtube.com/watch?v=QNc5xneDzoo&pp=ygUM5Lit5aSp5paw6Ze7
+
 #EXTINF:0 group-title="油管直播",三立新聞
 https://m.youtube.com/@setnews/live
 #EXTINF:0 group-title="油管直播",东森新闻
