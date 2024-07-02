@@ -134,12 +134,7 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:0 group-title="港台频道",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:0 group-title="港台频道",凤凰卫视
-http://210.210.155.37/session/ad4cc1bc-0ea1-11ef-9cc5-bef0b9a38ac9/uq2663/h/h157/S4/mnf.m3u8
-#EXTINF:0 group-title="港台频道",凤凰卫视
-http://210.210.155.37/session/950a52f0-10f3-11ef-9d26-9e05a3fb2dac/uq2663/h/h157/index2.m3u8
-#EXTINF:0 group-title="港台频道",凤凰卫视
-http://210.210.155.37/session/c7c2572e-10f3-11ef-82b6-86c4b99fb11d/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+
 #EXTINF:0 group-title="港台频道",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 
