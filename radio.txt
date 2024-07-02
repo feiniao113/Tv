@@ -169,14 +169,12 @@ https://vd2.bdstatic.com/mda-nksr82e715zenfi9/sc/cae_h264/1670385683007677675/md
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8?token=
 #EXTINF:0 group-title="泥巴直播",CCTV2
 https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
-#EXTINF:0 group-title="泥巴直播",CCTV4
-https://h5cdn404.kylintv.tv/live/cctv4hd_iphone.m3u8
+
 #EXTINF:0 group-title="泥巴直播",CCTV5
 https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 #EXTINF:0 group-title="泥巴直播",CCTV5+
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-#EXTINF:0 group-title="泥巴直播",CCTV6
-https://h5cdn404.kylintv.tv/live/cctv6hd_iphone.m3u8
+
 #EXTINF:0 group-title="泥巴直播",CCTV8
 https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
 #EXTINF:0 group-title="泥巴直播",CCTV9
