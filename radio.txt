@@ -143,24 +143,15 @@ http://210.210.155.37/session/c7c2572e-10f3-11ef-82b6-86c4b99fb11d/uq2663/h/h157
 #EXTINF:0 group-title="港台频道",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 
-#EXTINF:0 group-title="卫视频道",湖南卫视
-http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8
-https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
+
 #EXTINF:0 group-title="卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:0 group-title="卫视频道",浙江卫视
-http://tvbox.netsite.cc/proxy/1076829733/1076829733.m3u8
-#EXTINF:0 group-title="卫视频道",陕西卫视
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
-#EXTINF:0 group-title="卫视频道",陕西卫视
-http://tvbox.netsite.cc/proxy/917851306/917851306.m3u8
-#EXTINF:0 group-title="卫视频道",西安影视
-https://stream.xiancity.cn/live/4/index.m3u8
+
+
 #EXTINF:0 group-title="卫视频道",宝鸡综合
 http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=
-#EXTINF:0 group-title="卫视频道",西安新闻
-https://stream.xiancity.cn/live/1/index.m3u8
-#EXTINF:0 group-title="卫视频道",西安新闻
+
+#EXTINF:0 group-title="卫视频道",宝鸡综合
 http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=855832649489747@6346@61F67E9317723A9A2760B896A213349B;{User-Agent@0151}
 
 #EXTINF:0 group-title="经典MV",张信哲经典MV
