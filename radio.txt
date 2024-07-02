@@ -118,8 +118,7 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 #EXTINF:0 group-title="央视频道",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:0 group-title="央视频道",CCTV6
-https://h5cdn404.kylintv.tv/live/cctv6hd_iphone.m3u8
+
 
 #EXTINF:0 group-title="央视频道",CCTV8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
