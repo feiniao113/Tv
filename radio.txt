@@ -89,7 +89,8 @@ https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="新加坡电视",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="新加坡电视",U频道
+https://cdn.ggapk.net/live/tv?id=a814rmmqhcUtDjIiXt7sVWXHaA42jJI0eawMIVfgYn7Egkql6fX2mrmcigaMA72R3PTUNmdFgXtkrqcy5l6sfOtBMdyBpySkHrgyuw2H6nIp3lvK3vqeN6ZTzTnqywj4IU65GxRI96p7ovIUrsdZnxhkeQTmhFYzN5hHTrUROHJ2pP8IB_PXju0SVqwbZigWs78imgcF0yp49ZaJOMtqwPka4q6UoCCOB0OOGVFb-d34wCD5G4eBpAu3rHsqsn9otYKqVQR0jmq2vdesooktf0dlfko1jsEoIDzUa2EjkWHGD-0qjZDuAY9YqvbQMLaisu7lA_O-eWEWbCS6KA8eEY3QIVTJP7pdpAZay_O3oeVM0PoFWEsOx9Xom1EXbk8uRXtTjjw2cOokHHyI__ljhlgd8aqUm4RLgR_rZpgqeUdFNUGU7rg-alyr4CUs1fYLaW-AkL0YjnLGDs_hf6e5OQb8xA1iZKtEAvtLIOOK8rLjLzBfdLDnsbTZCDVehM5qEtU2pJn2vuAvB3UZFmwCxf6GlOpI5TjLa1Pqsn86y4cQk94gmUBY8XSg8JsM&idp=2236bxitO9TSKsnzIxMQXcOxLunhkOBCqNfvHSU-dE5jg8T8UAV3FMs
 #EXTINF:0 group-title="新加坡电视",8视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 
