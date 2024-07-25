@@ -7,16 +7,17 @@ CCTV2,https://ushls.ballbar.net/cctv2/playlist-67.m3u8a?t=1721896566&token=514ce
 
 CCTV3,https://ushls.ballbar.net/cctv3/playlist-67.m3u8a?t=1721896643&token=1ab631794589d8ff5e1bd35d3647b611
 
-
+CCTV4,https://k99441.kylintv.tv/live/cctv4hd_iphone.m3u8
 CCTV5,https://ushls.ballbar.net/cctv5/playlist-67.m3u8a?t=1721895604&token=7cc25408dfeb13682071e69c6bf96acb
-
+CCTV5,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
+CCTV5,https://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV5+,http://113.218.218.5:8001/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,https://ushls.ballbar.net/cctv6/playlist-67.m3u8a?t=1721896706&token=d8d1055d4b09ac666373d29d17b76634
 CCTV7,https://ushls.ballbar.net/cctv7/playlist-67.m3u8a?t=1721896772&token=7ce14f7c6be6307da8e304816f93d5f9
 CCTV8,https://ushls.ballbar.net/cctv8/playlist-67.m3u8a?t=1721895699&token=cfde71fb672d8b6764c2678fbe198da7
 
-
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mbd.m3u8?auth_key=1721951569-0-1e3afcd64eb94b1bbad1e6b834dc3b84-83bc6602ef0f2ebab3b8636394bdcbf7&yid=1e3afcd64eb94b1bbad1e6b834dc3b84
 星驰经典,#genre#
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
