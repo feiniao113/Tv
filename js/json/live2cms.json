@@ -1,0 +1,27 @@
+[
+  {
+    "name": "GitHub-TXT",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    "img": "./hh.gif"
+  },
+  {
+    "name": "GitHub-M3U",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+      "img": "./hh.gif"
+  },
+  {
+    "name": "CNTV",
+    "url": "./live_cntv.txt",
+    "img": "https://raw.githubusercontent.com/feiniao113/Tv/main/hh.gif"
+  },
+  {
+    "name": "范冰冰-V6",
+    "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "img": "https://raw.githubusercontent.com/feiniao113/Tv/main/hh.gif"
+  },
+  {
+    "name": "1905",
+    "url": "./live_1905.txt",
+    "img": "https://image11.m1905.cn/uploadfile/2022/0510/thumb_1_285_100_20220510030520666149.jpg"
+  }
+]
