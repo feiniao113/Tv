@@ -39,17 +39,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/爱欧乐影院.js"
 		},
-			{
-			"key": "hipy_js_小宝影院",
-			"name": "小宝┃影院",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/小宝影院.js"
-		},
+			
 			{
 			"key": "hipy_js_旋风视频",
 			"name": "旋风┃视频",
