@@ -1,6 +1,6 @@
 
 
-央视频道,#genre#
+央视频道1,#genre#
 CCTV1,https://bstvcdn.ballbar.net/cctv1/playlist-15.m3u8a?t=1721896531&token=f24dbf037e6197db9c21c1da877dcc89
 
 CCTV2,https://ushls.ballbar.net/cctv2/playlist-67.m3u8a?t=1721896566&token=514ce21f697efe92b2298b17b192b96b
@@ -18,6 +18,49 @@ CCTV7,https://ushls.ballbar.net/cctv7/playlist-67.m3u8a?t=1721896772&token=7ce14
 CCTV8,https://ushls.ballbar.net/cctv8/playlist-67.m3u8a?t=1721895699&token=cfde71fb672d8b6764c2678fbe198da7
 
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mbd.m3u8?auth_key=1721951569-0-1e3afcd64eb94b1bbad1e6b834dc3b84-83bc6602ef0f2ebab3b8636394bdcbf7&yid=1e3afcd64eb94b1bbad1e6b834dc3b84
+
+
+央视频道2,#genre#
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+央视频道3,#genre#
+CCTV1,http://180.141.28.176:4022/rtp/239.81.0.102:4056?Cf=cfss.cc
+CCTV1,http://180.141.28.176:4022/rtp/239.81.0.13:4056?Cf=cfss.cc
+CCTV2,http://180.141.28.176:4022/rtp/239.81.0.115:4056?Cf=cfss.cc
+CCTV2,http://180.141.28.176:4022/rtp/239.81.0.14:4056?Cf=cfss.cc
+CCTV3,http://180.141.28.176:4022/rtp/239.81.0.231:4056?Cf=cfss.cc
+CCTV4,http://180.141.28.176:4022/rtp/239.81.0.96:4056?Cf=cfss.cc
+CCTV4,http://180.141.28.176:4022/rtp/239.81.0.16:4056?Cf=cfss.cc
+CCTV5,http://180.141.28.176:4022/rtp/239.81.0.232:4056?Cf=cfss.cc
+CCTV5＋,http://180.141.28.176:4022/rtp/239.81.0.101:4056?Cf=cfss.cc
+CCTV6,http://180.141.28.176:4022/rtp/239.81.0.233:4056?Cf=cfss.cc
+CCTV7,http://180.141.28.176:4022/rtp/239.81.0.116:4056?Cf=cfss.cc
+CCTV8,http://180.141.28.176:4022/rtp/239.81.0.234:4056?Cf=cfss.cc
+CCTV9,http://180.141.28.176:4022/rtp/239.81.0.117:4056?Cf=cfss.cc
+CCTV10,http://180.141.28.176:4022/rtp/239.81.0.118:4056?Cf=cfss.cc
+CCTV11,http://180.141.28.176:4022/rtp/239.81.0.229:4056?Cf=cfss.cc
+CCTV12,http://180.141.28.176:4022/rtp/239.81.0.119:4056?Cf=cfss.cc
+CCTV13,http://180.141.28.176:4022/rtp/239.81.0.26:4056?Cf=cfss.cc
+CCTV14,http://180.141.28.176:4022/rtp/239.81.0.120:4056?Cf=cfss.cc
+CCTV15,http://180.141.28.176:4022/rtp/239.81.0.230:4056?Cf=cfss.cc
+CCTV17,http://180.141.28.176:4022/rtp/239.81.0.228:4056?Cf=cfss.cc
 星驰经典,#genre#
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
