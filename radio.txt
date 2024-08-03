@@ -194,8 +194,7 @@ https://m.youtube.com/watch?v=m_dhMSvUCIc&pp=ygUQdHZic-aWsOiBnuebtOaSrQ%3D%3D
 #EXTINF:0 group-title="油管直播",民視新聞
 https://m.youtube.com/watch?v=ylYJSBUgaMA&pp=ygUM5rCR6KeG5paw6Ze7
 
-#EXTINF:0 group-title="油管直播",三立新聞
-https://m.youtube.com/@setnews/live
+
 #EXTINF:0 group-title="油管直播",东森新闻
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 #EXTINF:0 group-title="油管直播",寰宇新聞
